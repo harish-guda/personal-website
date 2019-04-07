@@ -65,16 +65,3 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
-  
-[params]
-  name = "Harish Guda"
-  description = "Personal Webpage"
-  role = "PhD Student"
-  organization = "UT Dallas"
-  # avatar = xxx.jpg
-  email = "harish.guda@utdallas.edu"
-  twitter = "harish_guda"
-  github = "harishguda"
-  skype = "harish.guda"
-  linkedin = "harishguda"
-  
