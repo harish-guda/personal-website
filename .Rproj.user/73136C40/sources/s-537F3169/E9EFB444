@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1814846121",
+    "hash" : "2426474325",
     "id" : "E9EFB444",
-    "lastKnownWriteTime" : 1554610702,
-    "last_content_update" : 1554610702,
+    "lastKnownWriteTime" : 1554619399,
+    "last_content_update" : 1554619399615,
     "path" : "C:/Users/Harish Guda/Dropbox/CV/harishguda/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
+        "cursorPosition" : "22,22",
+        "scrollLine" : "15"
     },
     "relative_order" : 3,
     "source_on_save" : false,
