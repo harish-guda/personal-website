@@ -15,7 +15,7 @@ interests:
 - Innovative and Emerging Business Models
 - Retail Operations
 - Game Theory
-name: Harish Guda
+name: Harish Guda 
 organizations:
 - name: University of Texas at Dallas
   url: "https://utdallas.edu"
@@ -24,15 +24,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/harish_guda
+  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IuBt3SkAAAAJ&hl=en&oi=ao
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/harish-guda
+  
 superuser: true
 user_groups:
 - Researchers
