@@ -6,6 +6,7 @@
     <description>Recent content in admin on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Harish Guda</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -39,8 +40,7 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>I am a 6th year PhD student in Management Science at the University of Texas at Dallas. I am advised by Milind Dawande and Ganesh Janakiraman. My broad interests are in understanding emerging business models that change the way we consume goods and services and the associated challenges they create. I am trained in Optimization, Game Theory, and Econometrics.</description>
     </item>
     
   </channel>
