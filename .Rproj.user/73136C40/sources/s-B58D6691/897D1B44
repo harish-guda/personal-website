@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554611050983.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "897D1B44",
+    "lastKnownWriteTime" : 1554611816,
+    "last_content_update" : 1554611816019,
+    "path" : "C:/Users/Harish Guda/Dropbox/CV/harishguda/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
