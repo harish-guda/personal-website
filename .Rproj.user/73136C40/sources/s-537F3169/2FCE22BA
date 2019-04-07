@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1219638104",
+    "hash" : "0",
     "id" : "2FCE22BA",
-    "lastKnownWriteTime" : 1554619052,
-    "last_content_update" : 1554619052354,
+    "lastKnownWriteTime" : 1554619159,
+    "last_content_update" : 1554619159269,
     "path" : "C:/Users/Harish Guda/Dropbox/CV/harishguda/config/_default/params.toml",
     "project_path" : "config/_default/params.toml",
     "properties" : {
-        "cursorPosition" : "54,32",
-        "scrollLine" : "40"
+        "cursorPosition" : "11,16",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
