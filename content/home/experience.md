@@ -17,28 +17,44 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Professor"
+  company = "Arizona State University"
+  company_url = "https://wpcarey.asu.edu"
+  location = "Tempe, AZ."
+  date_start = "2019-08-08"
+  date_end = ""
+  description = """
+"""
+
+[[experience]]
+  title = "Summer Intern"
+  company = "Nordstrom"
+  company_url = "https://shop.nordstrom.com"
+  location = "Seattle, WA"
+  date_start = "2018-06-11"
+  date_end = "2018-08-17"
+  description = """
+  * Part of the Supply Chain Data Sciences Team. 
+  * Worked on forecasting e-commerce orders to calculate expected daily load on different FCs.
+  * Goal is to support FC managers in staffing decisions.
+"""
+
+[[experience]]
+  title = "PhD Student (Management Science)"
+  company = "University of Texas at Dallas"
+  company_url = "https://jindal.utdallas.edu"
+  location = "Richardson, TX."
+  date_start = "2013-07-21"
+  date_end = "2019-08-08"
+  description = """
+  In my dissertation, I studied:
+  
+  * optimization of outpatient appointment scheduling,
+  * analysis of support prices under supply uncertainty and budget constraints,
+  * surge pricing for on-demand platforms with spatial considerations.
+  """
 
 +++
