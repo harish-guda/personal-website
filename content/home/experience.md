@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -26,8 +26,7 @@ date_format = "Jan 2006"
   location = "Tempe, AZ."
   date_start = "2019-08-08"
   date_end = ""
-  description = """
-"""
+  description = """ """
 
 [[experience]]
   title = "Summer Intern"
@@ -37,9 +36,8 @@ date_format = "Jan 2006"
   date_start = "2018-06-11"
   date_end = "2018-08-17"
   description = """
-  * Part of the Supply Chain Data Sciences Team. 
-  * Worked on forecasting e-commerce orders to calculate expected daily load on different FCs.
-  * Goal is to support FC managers in staffing decisions.
+  * Worked on forecasting e-commerce orders to calculate expected daily load on different FCs using time-series methods.
+  * Goal is to support FC managers in staffing (pickers and packers) decisions.
 """
 
 [[experience]]

@@ -12,9 +12,9 @@ education:
     year: 2013
 email: "harish.guda@utdallas.edu"
 interests:
-- Innovative and Emerging Business Models
+- Technology-Enabled Innovation in Operations Management
 - Retail Operations
-- Game Theory
+
 name: Harish Guda 
 organizations:
 - name: University of Texas at Dallas
@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-I am a 6th year PhD student in Management Science at the University of Texas at Dallas. I am advised by Milind Dawande and Ganesh Janakiraman. My broad interests are in understanding emerging business models that change the way we consume goods and services and the associated challenges they create. I am trained in Optimization, Game Theory, and Econometrics. 
+I am a PhD student in Management Science at the [University of Texas at Dallas](https://jindal.utdallas.edu). I am advised by [Milind Dawande](https://utdallas.edu/~milind) and [Ganesh Janakiraman](https://utdallas.edu/~ganesh). My broad interests are in understanding emerging business models that transform the way we consume goods and services and the challenges therein. I help solve these problems, both using analytical models, and using data-driven methods. My academic training and coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
