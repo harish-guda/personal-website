@@ -1,6 +1,10 @@
 {
-    "path" : "C:/Users/Harish Guda/Dropbox/CV/harishguda",
+    "path" : "C:/Users/Harish Guda/Dropbox/CV/harishguda/content/home",
     "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 3
+        },
         {
             "ascending" : true,
             "columnIndex" : 2
