@@ -7,8 +7,48 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Harish Guda</copyright>
-    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Om Vighnaraja</title>
+      <link>/post/om-vighnaraja-first-post/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/om-vighnaraja-first-post/</guid>
+      <description>
+
+
+&lt;p&gt;Hello all. This is my first post on my new website/blog, thus the title &lt;em&gt;Om Vighnaraja&lt;/em&gt; (instead of a &lt;em&gt;Hello World&lt;/em&gt;). My hope is to keep y’all updated with content regularly. Thank you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seemingly-Beneficial Interventions</title>
+      <link>/publication/beneficial-interventions/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/beneficial-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Uber Is Arriving: Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and Worker Incentives</title>
+      <link>/publication/surge-pricing/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/surge-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Economic Analysis of Agricultural Support Prices in Developing Economies</title>
+      <link>/publication/guaranteed-support-prices/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/guaranteed-support-prices/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -18,6 +58,15 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling</title>
+      <link>/publication/appointment-scheduling/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/appointment-scheduling/</guid>
+      <description></description>
     </item>
     
     <item>

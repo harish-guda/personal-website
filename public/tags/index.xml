@@ -7,9 +7,154 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Harish Guda</copyright>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Appointment Scheduling</title>
+      <link>/tags/appointment-scheduling/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/appointment-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Order</title>
+      <link>/tags/convex-order/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/convex-order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand Throttling</title>
+      <link>/tags/demand-throttling/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/demand-throttling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gig-Economy</title>
+      <link>/tags/gig-economy/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gig-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/tags/hello-world/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Om Vighnaraja</title>
+      <link>/tags/om-vighnaraja/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/om-vighnaraja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production and Selling Decisions</title>
+      <link>/tags/production-and-selling-decisions/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/production-and-selling-decisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeated Games</title>
+      <link>/tags/repeated-games/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/repeated-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation</title>
+      <link>/tags/reputation/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seemingly-Beneficial Intervention</title>
+      <link>/tags/seemingly-beneficial-intervention/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/seemingly-beneficial-intervention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortest-Variance-First</title>
+      <link>/tags/shortest-variance-first/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shortest-variance-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signaling</title>
+      <link>/tags/signaling/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Scheduling</title>
+      <link>/tags/stochastic-scheduling/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stochastic-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support Prices</title>
+      <link>/tags/support-prices/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/support-prices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surge Pricing</title>
+      <link>/tags/surge-pricing/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/surge-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yield Uncertainty</title>
+      <link>/tags/yield-uncertainty/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/yield-uncertainty/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
