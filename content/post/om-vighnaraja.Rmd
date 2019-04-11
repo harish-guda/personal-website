@@ -19,4 +19,8 @@ tags:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello all. This is my first post on my new website/blog, thus the title *Om Vighnaraja* (instead of a *Hello World*). My hope is to keep y'all updated with content regularly. Thank you. 
+Hello all. 
+
+This is my first post on my new website/blog, thus the title *Om Vighnaraja* (instead of a *Hello World*). My hope is to keep y'all updated with content regularly. 
+
+Thank you. 
