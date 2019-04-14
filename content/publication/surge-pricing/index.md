@@ -19,7 +19,7 @@ publication: In *Management Science*.
 publication_short: In *MS*
 publication_types:
 - "2"
-summary: "We study how an on-demand service platform can coordinate its workfoece through forecast-sharing, worker bonuses and surge pricing in a geographically dispersed marketplace using gig-economy workers."
+summary: "We study how an on-demand service platform can coordinate its workforce through forecast-sharing, worker bonuses and surge pricing in a geographically dispersed marketplace using gig-economy workers."
 tags: ["Demand Throttling", "Surge Pricing", "Gig-Economy", "Signaling"]
 title: "Your Uber Is Arriving: Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and Worker Incentives"
 url_code: ''

@@ -13,7 +13,7 @@ education:
 email: "harish.guda@utdallas.edu"
 interests:
 - Technology-Enabled Innovation in Operations Management
-- Retail Operations
+- Pricing and Revenue Management
 
 name: Harish Guda 
 organizations:
@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Management Science at the [University of Texas at Dallas](https://jindal.utdallas.edu). My advisors are [Milind Dawande](https://utdallas.edu/~milind) and [Ganesh Janakiraman](https://utdallas.edu/~ganesh). My broad interests are in understanding emerging business models that transform the way we consume goods and services. I use both analytical models, and data-driven methods. My academic training and coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
+I am a PhD student in Management Science at the [University of Texas at Dallas](https://jindal.utdallas.edu). My advisors are [Milind Dawande](https://utdallas.edu/~milind) and [Ganesh Janakiraman](https://utdallas.edu/~ganesh). My broad interests are in understanding *emerging business models* that transform the way we consume goods and services. I am also interested in *retail operations*, *pricing and revenue management*, and *incentive design problems related to workforce management*. My academic training/coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
