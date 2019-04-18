@@ -16,7 +16,7 @@ math: true
 projects:
 - internal-project
 publication: In *Management Science*.
-publication_short: In *MS*
+publication_short: In *Management Science*
 publication_types:
 - "2"
 summary: "We study how an on-demand service platform can coordinate its workforce through forecast-sharing, worker bonuses and surge pricing in a geographically dispersed marketplace using gig-economy workers."
