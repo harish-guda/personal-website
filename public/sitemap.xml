@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>/post/website-info/</loc>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/post/om-vighnaraja-first-post/</loc>
       <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     </url>
@@ -95,6 +101,13 @@
   
     <url>
     
+      <loc>/tags/creating-websites/</loc>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/authors/dawande-m./</loc>
       <lastmod>2019-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -110,7 +123,7 @@
     <url>
     
       <loc>/categories/general/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -131,7 +144,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -166,7 +179,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -187,6 +200,13 @@
     
       <loc>/publication/</loc>
       <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Harish Guda</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Harish Guda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Harish Guda</copyright>
+    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Information on Creating Websites with R</title>
+      <link>/post/website-info/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/website-info/</guid>
+      <description>I have always wanted to build attractive websites and still have a lot of control on the various facets of the website. I had previously owned a Google Site, which I never liked I am not a professional with regards to web-development. Besides, my needs were minimal. With little knowledge on this topic, I did what everyone else does – dive straight into it.
+I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I wasted no time.</description>
+    </item>
+    
+  </channel>
+</rss>
