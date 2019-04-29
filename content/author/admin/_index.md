@@ -45,6 +45,6 @@ user_groups:
 
 I am a PhD student in Management Science at the [University of Texas at Dallas](https://jindal.utdallas.edu). My advisors are [Milind Dawande](https://utdallas.edu/~milind) and [Ganesh Janakiraman](https://utdallas.edu/~ganesh). 
 
-My broad interests are in understanding *emerging business models*. I am also interested in *retail operations* and *pricing and revenue management*. 
+My broad interests are in understanding emerging business models. I am also interested in retail operations and pricing and revenue management. 
 
 My academic training/coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
