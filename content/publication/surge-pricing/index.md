@@ -24,9 +24,9 @@ tags: ["Demand Throttling", "Surge Pricing", "Gig-Economy", "Signaling"]
 title: "Your Uber Is Arriving: Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and Worker Incentives"
 url_code: ''
 url_dataset: ''
-url_pdf: https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3050
+url_pdf: ''
 url_poster: ''
-url_preprint: https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3050
+url_preprint: ''
 url_project: ""
 url_slides: ''
 url_source: ''

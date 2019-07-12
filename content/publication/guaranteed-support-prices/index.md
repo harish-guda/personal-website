@@ -32,7 +32,7 @@ tags: ["Support Prices", "Production and Selling Decisions", "Yield Uncertainty"
 title: An Economic Analysis of Agricultural Support Prices in Developing Economies
 url_code: ''
 url_dataset: ''
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334
+url_pdf: ''
 url_poster: ''
 url_preprint: ''
 url_project: ""
