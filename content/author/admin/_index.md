@@ -37,6 +37,10 @@ social:
   icon_pack: fab
   link: https://github.com/harish-guda
   
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3930-0399
+  
 superuser: true
 user_groups:
 - Researchers
