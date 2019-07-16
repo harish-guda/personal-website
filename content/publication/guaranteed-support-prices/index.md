@@ -23,20 +23,11 @@ links:
 math: true
 projects:
 - internal-project
-publication: In *SSRN*.
-publication_short: In *SSRN*
+publication:
+publication_short:
 publication_types:
 - "3"
 summary: We study the role of guaranteed support prices in agriculture under supply yield uncertainty and demand-side budget constraints.
 tags: ["Support Prices", "Production and Selling Decisions", "Yield Uncertainty"]
 title: An Economic Analysis of Agricultural Support Prices in Developing Economies
-url_code: ''
-url_dataset: ''
-url_pdf: ''
-url_poster: ''
-url_preprint: ''
-url_project: ""
-url_slides: ''
-url_source: ''
-url_video: ''
 ---
