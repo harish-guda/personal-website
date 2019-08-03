@@ -1,7 +1,7 @@
 ---
 authors:
-- admin
-bio: My research interests include On-Demand Economy, Game Theory and Data Analytics.
+- harishguda
+bio: Assistant Professor of Supply Chain Management at Arizona State Unniversity. 
 education:
   courses:
   - course: PhD in Management Science
@@ -10,16 +10,17 @@ education:
   - course: BS in Mechanical Engineering
     institution: Indian Institute of Technology, Madras
     year: 2013
-email: "harish.guda@utdallas.edu"
+email: "hguda@asu.edu"
 interests:
-- Technology-Enabled Innovation in Operations Management
-- Pricing and Revenue Management
+- Platform-Enabled Service Operations
+- Pricing and Revenue Management.
+- Supply Chain Analytics.
 
 name: Harish Guda 
 organizations:
-- name: University of Texas at Dallas
-  url: "https://utdallas.edu"
-role: PhD Student (Management Science)
+- name: Arizona State University
+  url: "https://wpcarey.asu.edu/"
+role: Assistant Professor (Supply Chain Management)
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,13 +43,10 @@ social:
   link: https://orcid.org/0000-0002-3930-0399
   
 superuser: true
-user_groups:
-- Researchers
-- Visitors
 ---
 
-I am a PhD student in Management Science at the [University of Texas at Dallas](https://jindal.utdallas.edu). My advisors are [Milind Dawande](https://utdallas.edu/~milind) and [Ganesh Janakiraman](https://utdallas.edu/~ganesh). 
+I am an Assistant Professor of Supply Chain Management at [W.P. Carey School of Business](https://wpcarey.asu.edu/), Arizona State University. 
 
-My broad interests are in understanding emerging business models. I am also interested in retail operations and pricing and revenue management. 
+My broad interests are in workforce management in large-scale platforms/marketplaces. I am also interested pricing and revenue management and in all aspects of retail operations. 
 
 My academic training/coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 

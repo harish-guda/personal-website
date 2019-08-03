@@ -24,14 +24,14 @@
   url = "#teaching"
   weight = 3
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 5
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 5
   
 [[main]]
   name = "Research"
-  url = "/publication/"
+  url = "#publications"
   weight = 2
   
 [[main]]
@@ -39,10 +39,10 @@
   url = "files/CV[HarishGuda].pdf"
   weight = 4
   
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 8
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
