@@ -1,7 +1,9 @@
 ---
 authors:
 - harishguda
+
 bio: Assistant Professor of Supply Chain Management at Arizona State Unniversity. 
+
 education:
   courses:
   - course: PhD in Management Science
@@ -10,17 +12,22 @@ education:
   - course: BS in Mechanical Engineering
     institution: Indian Institute of Technology, Madras
     year: 2013
+
 email: "hguda@asu.edu"
+
 interests:
 - Platform-Enabled Service Operations
 - Pricing and Revenue Management.
 - Supply Chain Analytics.
 
 name: Harish Guda 
+
 organizations:
 - name: Arizona State University
   url: "https://wpcarey.asu.edu/"
+
 role: Assistant Professor (Supply Chain Management)
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,6 +48,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3930-0399
+  
+- icon: pdf
+  icon_pack: ai
+  link: 'files/CV[HarishGuda].PDF'
   
 superuser: true
 ---
