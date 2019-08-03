@@ -49,4 +49,4 @@ I am an Assistant Professor of Supply Chain Management at [W.P. Carey School of 
 
 My broad interests are in workforce management in large-scale platforms/marketplaces. I am also interested pricing and revenue management and in all aspects of retail operations. 
 
-My academic training/coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
+My academic training and coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 

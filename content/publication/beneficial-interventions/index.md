@@ -18,6 +18,10 @@ image:
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634
+  
+- name: PDF
+  url: files/Seemingly-Beneficial-Interventions-NonBlind.PDF
+  
 
 math: true
 projects:
