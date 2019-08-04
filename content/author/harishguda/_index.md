@@ -49,7 +49,7 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-3930-0399
   
-- icon: pdf
+- icon: cv
   icon_pack: ai
   link: 'files/CV[HarishGuda].PDF'
   
@@ -58,6 +58,6 @@ superuser: true
 
 I am an Assistant Professor of Supply Chain Management at [W.P. Carey School of Business](https://wpcarey.asu.edu/), Arizona State University. 
 
-My broad interests are in workforce management in large-scale platforms/marketplaces. I am also interested pricing and revenue management and in all aspects of retail operations. 
+My broad interests are in the interface of technology, marketplace-design and operations/supply-chain management. I am also interested in the theory of pricing and revenue management and in all aspects of retail operations. 
 
 My academic training and coursework are in the areas of Optimization, Game Theory and Information Economics, Statistics, Econometrics and Machine Learning. 
