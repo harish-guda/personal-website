@@ -18,7 +18,7 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/appointment-scheduling/</guid>
-      <description></description>
+      <description>We study a variant of the classical appointment scheduling problem, where idling is not allowed, but advancing a patient&amp;rsquo;s surgery is allowed. We show that the Shortest-Variance-First (SVF) rule is optimal for our variant.</description>
     </item>
     
   </channel>

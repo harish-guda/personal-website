@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Harish Guda</copyright>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,11 +40,11 @@
     </item>
     
     <item>
-      <title>Jung, K</title>
-      <link>/authors/jung-k/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <title>Subramanian, U.</title>
+      <link>/authors/subramanian-u./</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/jung-k/</guid>
+      <guid>/authors/subramanian-u./</guid>
       <description></description>
     </item>
     
@@ -57,11 +58,11 @@
     </item>
     
     <item>
-      <title>Subramanian, U.</title>
-      <link>/authors/subramanian-u./</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Jung, K</title>
+      <link>/authors/jung-k/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/subramanian-u./</guid>
+      <guid>/authors/jung-k/</guid>
       <description></description>
     </item>
     
