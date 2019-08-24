@@ -1,304 +1,72 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/authors/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/tags/creating-websites/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/authors/dawande-m./</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/categories/general/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/authors/guda-h./</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/authors/janakiraman-g./</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/post/2019/04/18/website-info/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/tags/repeated-games/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/tags/reputation/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/tags/hello-world/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/tags/om-vighnaraja/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/tags/seemingly-beneficial-intervention/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/post/2019/04/01/om-vighnaraja-first-post/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>/publication/beneficial-interventions/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>/about/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-07-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/research/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/creating-websites/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/general/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/post/website-info/</loc>
-      <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/hello-world/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/om-vighnaraja/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/post/om-vighnaraja-first-post/</loc>
-      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/demand-throttling/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/gig-economy/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/signaling/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/subramanian-u./</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/surge-pricing/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/surge-pricing/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/guaranteed-support-prices/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/production-and-selling-decisions/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/rajapakshe-t./</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/support-prices/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/yield-uncertainty/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/appointment-scheduling/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/convex-order/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/jung-k/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/appointment-scheduling/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/shortest-variance-first/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/stochastic-scheduling/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/author/harishguda/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/home/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/harishguda/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>/teaching/</loc>
+  </url>
   
 </urlset>

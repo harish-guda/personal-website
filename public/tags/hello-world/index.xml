@@ -6,7 +6,6 @@
     <description>Recent content in Hello World on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Harish Guda</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Om Vighnaraja</title>
-      <link>/post/om-vighnaraja-first-post/</link>
+      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/om-vighnaraja-first-post/</guid>
+      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
       <description>Hello all!
 This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
 Thank you.</description>
