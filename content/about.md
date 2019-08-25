@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-[<img src="/index-files/harish-guda-2017.jpg" style="max-width:30%;min-width:60px;float:right;" />](https://harishguda.me)
+[<img src="/index-files/harish-guda-2017.jpg" style="max-width:30%;min-width:60px;float:right;" />](https://harishguda.me/about/)
 
 
 Hi. 

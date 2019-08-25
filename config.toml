@@ -33,5 +33,5 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 
 [params]
-    description = "Personal Webpage."
+    description = "Personal Webpage"
     footer = "&copy; [Harish Guda](https://harishguda.me/about) | [ASU](https://wpcarey.asu.edu/people/profile/3485205) | [Linkedin](https://www.linkedin.com/in/harish-guda/) | [Twitter](https://twitter.com/harish_guda) | [Github](https://github.com/harish-guda) "
