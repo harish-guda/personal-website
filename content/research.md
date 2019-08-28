@@ -4,9 +4,9 @@ title: Research
 
 ## Interests
 
-In my research, I study incentive and information design problems to solve operational problems that arise in large marketplaces. 
+I study incentive and information design problems that arise in large platforms/marketplaces. 
 
-Areas of applications include the emerging on-demand economy, agriculture (in developing economies) and omnichannel retail.
+Areas of applications include the gig- and sharing-economy, agriculture (in developing economies) and omnichannel retail.
 
 
 ## Working Papers
