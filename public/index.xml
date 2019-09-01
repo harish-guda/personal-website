@@ -17,8 +17,9 @@
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/04/18/website-info/</guid>
-      <description>I have always wanted to build attractive websites and still have a lot of control on the various facets of the website. I had previously owned a Google Site, which I never liked. I am not a professional with regards to web-development. Besides, my needs were minimal. With little knowledge on this topic, I did what everyone else does – dive straight into it.
-I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it.</description>
+      <description>Update: Much of this information is available in detail at multiple places, including:
+The Little Dataset,Official Blogdown E-Book,Alison Hill (who is a co-author on the textbook),among others.
+I had previously owned a Google Site, which I never liked. I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it. However, it can be still quite difficult with no experience to HTML, or prior exposure to CSS.</description>
     </item>
     
     <item>
@@ -52,9 +53,9 @@ Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427. Mail: Business Adminis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Interests In my research, I study incentive and information design problems to solve operational problems that arise in large marketplaces.
-Areas of applications include the emerging on-demand economy, agriculture (in developing economies) and omnichannel retail.
-Working Papers  &amp;ldquo;Seemingly-Beneficial&amp;rdquo; Interventions.  Joint work with Milind Dawande and Ganesh Janakirmanan. PDF, SSRN.  The Economics of Agricultural Support Prices in Developing Economies.  Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman.</description>
+      <description>Interests I study incentive and information design problems that arise in large platforms/marketplaces.
+Areas of applications include the gig- and sharing-economy, agriculture (in developing economies) and omnichannel retail.
+Working Papers  &amp;ldquo;Seemingly-Beneficial&amp;rdquo; Interventions.  Joint work with Milind Dawande and Ganesh Janakirmanan. PDF, SSRN.  The Economics of Agricultural Support Prices in Developing Economies.  Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. SSRN.   Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.</description>
     </item>
     
     <item>
@@ -63,7 +64,7 @@ Working Papers  &amp;ldquo;Seemingly-Beneficial&amp;rdquo; Interventions.  Joint
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description> Arizona State University University of Texas at Dallas  OPRE 3310: Introduction to Operations Management - BS(BA) Core.  Syllabus Spring 2017: 4.95&amp;frasl;5. Fall 2017: 4.84&amp;frasl;5.   </description>
+      <description> Arizona State University University of Texas at Dallas  OPRE 3310: Introduction to Operations Management - BS (BA) Core.  Syllabus Spring 2017: 4.95&amp;frasl;5. Fall 2017: 4.84&amp;frasl;5.   </description>
     </item>
     
   </channel>
