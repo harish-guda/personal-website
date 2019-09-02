@@ -18,4 +18,3 @@ I am an avid R enthusiast.
 - Email: `hguda [AT] asu [DOT] edu`.
 - Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287
 - Phone: `480 - 727 - 3561`.
-- Google Scholar: [Harish Guda](https://scholar.google.com/citations?user=IuBt3SkAAAAJ&hl=en). 
