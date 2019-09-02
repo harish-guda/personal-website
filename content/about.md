@@ -16,10 +16,6 @@ I am an avid R enthusiast.
 ## Contact
 
 - Email: `hguda [AT] asu [DOT] edu`.
-- Office: BA 427. 
-- Mail: Business Administration, 300 E Lemon St., Tempe, AZ. 85287. 
+- Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287
 - Phone: `480 - 727 - 3561`.
-- Google Scholar: [Harish Guda](https://scholar.google.com/citations?user=IuBt3SkAAAAJ&hl=en).
-- Twitter: [@harish_guda](https://twitter.com/harish_guda)
-
- 
+- Google Scholar: [Harish Guda](https://scholar.google.com/citations?user=IuBt3SkAAAAJ&hl=en). 
