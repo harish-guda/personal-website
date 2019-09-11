@@ -18,3 +18,4 @@ I am an avid R enthusiast.
 - Email: `hguda [AT] asu [DOT] edu`.
 - Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287
 - Phone: `480 - 727 - 3561`.
+- [ASU](https://wpcarey.asu.edu/people/profile/3485205), [Linkedin](https://www.linkedin.com/in/harish-guda/), [Twitter](https://twitter.com/harish_guda). 
