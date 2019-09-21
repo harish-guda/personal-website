@@ -25,7 +25,8 @@ This is my first post on my new website/blog, thus the title *Om Vighnaraja* (in
 
 One of my favorite things about RMD files is that it compiles math so beautifully. For example, 
 
-Fix $d, w \in [0, 1]$. The *unique* indifferent agent $\hat{\theta} \in [0, 1]$ is given by:
+Fix $d, w \in [0, 1]$. The indifferent agent $\hat{\theta} \in [0, 1]$ can be obtained by the following equation:
 $$w\Bigg(\frac{d}{F(\hat{\theta})}\Bigg) - \hat{\theta} = 0.$$
+Further, $\hat{\theta}$ is unique. 
 
 Thank you. 
