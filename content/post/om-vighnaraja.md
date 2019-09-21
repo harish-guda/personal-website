@@ -23,7 +23,7 @@ Hello all!
 
 This is my first post on my new website/blog, thus the title *Om Vighnaraja* (instead of a *Hello World*). My hope is to keep y'all updated with content regularly. 
 
-One of my favorite things about RMD files is that it compiles math so beautifully: For example, given demand $d$ and wage $w$, the indifferent worker $\hat{\theta}$ is given by:
+One of my favorite things about RMD files is that it compiles math so beautifully. For example:
 $$\frac{d}{F(\hat{\theta})} = \frac{\hat{\theta}}{w}$$
 has a unique solution for $\hat{\theta} \in [0,1]$. 
 
