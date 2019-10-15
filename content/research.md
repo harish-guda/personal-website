@@ -22,7 +22,7 @@ Areas of applications include the gig- and sharing-economy, agriculture (in deve
 
 * Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.
   * Joint work with Upender Subramanian. 
-  * Published in Management Science: [DOI](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3050), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2895227).
+  * Published in *Management Science*: [DOI](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3050), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2895227).
 * Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.
   * Joint work with Milind Dawande, Ganesh Janakiraman and Kyung-Sung Jung. 
-  * Published in Production and Operations Management: [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12538).
+  * Published in *Production and Operations Management*: [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12538).
