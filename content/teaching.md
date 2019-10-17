@@ -6,7 +6,6 @@ title: Teaching
 
 * SCM 551: Operations Planning and Execution - MBA Elective.
 * SCM 502: Operations and Supply Chain Management - MBA Core.
-  * [Syllabus](/files/SCM-502-Syllabus-HG.html)
 
 ## University of Texas at Dallas
 
