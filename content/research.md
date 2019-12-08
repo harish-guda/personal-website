@@ -9,15 +9,6 @@ I study incentive and information design problems that arise in large platforms/
 Areas of applications include the gig- and sharing-economy, agriculture (in developing economies) and omnichannel retail.
 
 
-## Working Papers
-
-* "Seemingly-Beneficial" Interventions.
-  * Joint work with Milind Dawande and Ganesh Janakirmanan. 
-  * [PDF](/files/Seemingly-Beneficial-Interventions-NonBlind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634).
-* The Economics of Agricultural Support Prices in Developing Economies. 
-  * Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. 
-  * [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
-
 ## Publications
 
 * Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.
@@ -26,3 +17,12 @@ Areas of applications include the gig- and sharing-economy, agriculture (in deve
 * Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.
   * Joint work with Milind Dawande, Ganesh Janakiraman and Kyung-Sung Jung. 
   * Published in *Production and Operations Management*: [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12538).
+
+## Working Papers
+
+* "Seemingly-Beneficial" Interventions.
+  * Joint work with Milind Dawande and Ganesh Janakirmanan. 
+  * [PDF](/files/Seemingly-Beneficial-Interventions-NonBlind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634).
+* The Economics of Agricultural Support Prices in Developing Economies. 
+  * Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. 
+  * [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
