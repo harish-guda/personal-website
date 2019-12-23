@@ -66,11 +66,23 @@
   </url>
   
   <url>
+    <loc>/tags/github/</loc>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
   <url>
+    <loc>/tags/teaching/</loc>
+  </url>
+  
+  <url>
     <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/1/01/01/teaching-resources/</loc>
   </url>
   
 </urlset>

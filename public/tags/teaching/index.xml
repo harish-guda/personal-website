@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Harish Guda</title>
+    <link>/tags/teaching/</link>
+    <description>Recent content in Teaching on Harish Guda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Resources for Teaching</title>
+      <link>/post/1/01/01/teaching-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/teaching-resources/</guid>
+      <description>I am writing this post as I complete my first quarter of teaching as an Assistant Professor. I taught the core Operations and Supply Chain Management to FT MBAs.1 As I went through this process, I realized that many new instructors might have similar needs in the various courses they teach. For example, a template for a syllabus, an exam, a homework, or even PowerPoint presentations.
+While there was an abundance of such resources online, it is hard for a user to try out everything to weed out the bad ones from the good ones.</description>
+    </item>
+    
+  </channel>
+</rss>
