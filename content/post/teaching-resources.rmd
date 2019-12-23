@@ -1,7 +1,7 @@
 ---
 title: "Useful Resources for Teaching"
 author: "Harish Guda"
-date: "12/22/2019"
+date: "2019-12-22"
 output:
   blogdown::html_page:
     toc: true
