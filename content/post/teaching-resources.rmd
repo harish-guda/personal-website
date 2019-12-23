@@ -28,6 +28,7 @@ Here are some of these resources (see Github [repo](https://github.com/harish-gu
 * Exam/Homework Template (LaTeX): While there are many LaTeX templates for exams, I liked this particular template (borrowed and modified from Philip Hirschhorn; Thank you, Philip!). Two key features are the points per question calculated on the front page, and the bonus questions.
 
 * Instruction Slides Template (PowerPoint): If you are not teaching a technical (i.e., notation-intensive) course, and therefore unlikely to use Beamer, I highly recommend PowerPoint. In my template, I try to minimize white space on all edges (top, bottom, left and right) -- this is akin to the idea of removing bezels in most modern smartphone screen design. 
+
   * Pro-tip (while teaching): I upload two versions of slides for every lecture to the students' LMS portal (e.g., Canvas, Blackboard) while teaching: 
     * A "before-class" version, and 
     * An "after-class" version. 
