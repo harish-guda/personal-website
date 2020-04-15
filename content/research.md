@@ -25,4 +25,4 @@ Areas of applications include the gig- and sharing-economy, agriculture (in deve
   * [PDF](/files/Seemingly-Beneficial-Interventions-NonBlind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634).
 * The Economics of Agricultural Support Prices in Developing Economies. 
   * Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. 
-  * [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
+  * [PDF](/files/gsp-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
