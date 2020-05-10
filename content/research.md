@@ -4,10 +4,9 @@ title: Research
 
 ## Interests
 
-I study incentive and information design problems that arise in large platforms/marketplaces. 
+My broad interests are in incentive and information design in platforms/marketplaces -- environments where a large number of agents interact. 
 
-Areas of applications include the gig- and sharing-economy, agriculture (in developing economies) and omnichannel retail.
-
+I am also interested in analyzing problems in retail (also motivated by my experience at Nordstrom). 
 
 ## Publications
 
