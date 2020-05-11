@@ -22,7 +22,3 @@ I am an R enthusiast.
 - [ASU](https://wpcarey.asu.edu/people/profile/3485205), [Linkedin](https://www.linkedin.com/in/harish-guda/), [Twitter](https://twitter.com/harish_guda), [Scholar](https://scholar.google.com/citations?user=F_gEBogAAAAJ&hl=en&authuser=1). 
 
 
-
-# Posts
-
-

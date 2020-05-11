@@ -31,6 +31,10 @@ footnotereturnlinkcontents = "↩"
     name = "CV"
     url = "/files/cv-harishguda.pdf"
     weight = 5
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 5
 
 [params]
     description = "Personal Webpage"
