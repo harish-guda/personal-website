@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Harish Guda</title>
+    <title>Posts on Harish Guda</title>
     <link>/</link>
-    <description>Recent content in Home on Harish Guda</description>
+    <description>Recent content in Posts on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
@@ -56,12 +56,16 @@ Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can b
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
+      <title>Harish Guda</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/</guid>
-      <description> Posts </description>
+      <guid>/about/</guid>
+      <description>Hi.
+I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain Management at the W.P. Carey School of Business at Arizona State University.
+My research interests are at the interface of technology, marketplace design and operations/supply chain management.
+I am an R enthusiast.
+Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287 Phone: 480 - 727 - 3561.</description>
     </item>
     
     <item>
