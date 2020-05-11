@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Harish Guda</title>
+    <title>Posts on Harish Guda</title>
     <link>/</link>
-    <description>Recent content in Home on Harish Guda</description>
+    <description>Recent content in Posts on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
@@ -50,18 +50,22 @@ Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/code/</guid>
-      <description> This webpage:
- Github Repo. Post.   My Github repos.
+      <description>  This webpage:
+ Github Repo. Post.    My Github repos.
   </description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
+      <title>Harish Guda</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/</guid>
-      <description> Posts </description>
+      <guid>/about/</guid>
+      <description>Hi.
+I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain Management at the W.P. Carey School of Business at Arizona State University.
+My research interests are at the interface of technology, marketplace design and operations/supply chain management.
+I am an R enthusiast.
+Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287 Phone: 480 - 727 - 3561.</description>
     </item>
     
     <item>
@@ -72,7 +76,7 @@ Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can b
       <guid>/research/</guid>
       <description>Interests My broad interests are in incentive and information design in platforms/marketplaces &amp;ndash; environments where a large number of agents interact.
 I am also interested in analyzing problems in retail (also motivated by my experience at Nordstrom).
-Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.  Joint work with Upender Subramanian. Published in Management Science: DOI, SSRN.  Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.</description>
+Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.  Joint work with Upender Subramanian. Published in Management Science: DOI, SSRN.   Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.</description>
     </item>
     
     <item>
@@ -81,7 +85,9 @@ Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description> Arizona State University  SCM 551: Operations Planning and Execution - MBA Elective. SCM 502: Operations and Supply Chain Management - MBA Core.  Syllabus   University of Texas at Dallas  OPRE 3310: Introduction to Operations Management - BS (BA) Core.  Syllabus   </description>
+      <description>Arizona State University   SCM 551: Operations Planning and Execution - MBA Elective.
+  SCM 502: Operations and Supply Chain Management - MBA Core.
+ Syllabus Evaluation:  6.1, 6.3 (Fall 2019)   I plan to maintain an independent repository of past content &amp;ndash; this is work-in-progress. Students may use this at their own discretion.    University of Texas at Dallas  OPRE 3310: Introduction to Operations Management - BS (BA) Core.</description>
     </item>
     
   </channel>
