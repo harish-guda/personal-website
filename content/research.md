@@ -4,9 +4,9 @@ title: Research
 
 ## Interests
 
-My broad interests are in incentive and information design in platforms/marketplaces -- environments where a large number of agents interact. 
+My broad interests are in incentive and information design in platforms/marketplaces -- environments where a large number of agents interact. In such environments, agents respond not only to the actions of the platform, but also to the actions ofother agents (i.e., agents exert strategic externalities on each other). 
 
-I am also interested in analyzing problems in retail (also motivated by my experience at Nordstrom). 
+Besidesm I am also interested in analyzing problems in retail (motivated by my experience at Nordstrom). 
 
 ## Publications
 
@@ -19,6 +19,10 @@ I am also interested in analyzing problems in retail (also motivated by my exper
 
 ## Working Papers
 
+
+* The Economics of Process Transparency. 
+  * Joint work with Milind Dawande and Ganesh Janakiraman. 
+  * [PDF](/files/process-transparency-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037). 
 * "Seemingly-Beneficial" Interventions.
   * Joint work with Milind Dawande and Ganesh Janakirmanan. 
   * [PDF](/files/Seemingly-Beneficial-Interventions-NonBlind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634).
