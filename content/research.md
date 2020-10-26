@@ -4,7 +4,7 @@ title: Research
 
 ## Interests
 
-My broad interests are in incentive and information design in platforms/marketplaces -- environments where a large number of agents interact. In such environments, agents respond not only to the actions of the platform, but also to the actions ofother agents (i.e., agents exert strategic externalities on each other). 
+My broad interests are in incentive and information design in platforms/marketplaces -- environments where a large number of agents interact. In such environments, agents respond not only to the actions of the platform, but also to the actions of other agents (i.e., agents exert strategic externalities on each other). 
 
 I am also interested in analyzing problems in retail (motivated by my experience at Nordstrom). 
 
