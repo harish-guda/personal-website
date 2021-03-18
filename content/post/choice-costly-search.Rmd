@@ -1,0 +1,74 @@
+---
+title: "Decision Making Under Costly Search"
+author: "Harish Guda"
+date: "2021-03-18"
+output:
+  blogdown::html_page:
+    toc: false
+    number_sections: false
+    toc_depth: 1
+slug: "teaching-resources"
+categories: 
+  - "General"
+tags: 
+  - "Research"
+  - "Choice"
+  - "Decision Making Under Uncertainty"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Choice Models 101
+
+Choice models -- the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives -- is of interest to several research disciplines. The canonical choice model is as follows. 
+
+  - A single decision-maker chooses one among a collection $N$ alternatives, indexed by $i \in [N]$.^[Here, $[N]$ denotes the set $\{1, 2, \ldots, N\}$.] His (consumption) utility from consuming alternative $i$ is: 
+$$U_i = v_i + \epsilon_i.$$
+  - The individual observes both $v_i$ and $\epsilon_i$, and selects the alternative that leads to the greatest consumption utility. That is, 
+$$i^* = \arg\max_{i \in [N]} U_i.$$
+
+  - The researcher/analyst observes $v_i$, the eventual choice, but not $\epsilon_i$. The most common assumption (for analytical tractability) ^[This simplification is due to the  property that i.i.d Gumbels are closed under addition.] is to assume that the user samples his $\epsilon_i$ as:
+$$\epsilon_i\sim_{i.i.d} Gumbel. $$
+This gives the classic MNL model -- a probabilistic choice model -- where the individual chooses alternative $i$ with probability: 
+$$p_i := \Pr[\text{alternative } i \text{ is chosen}] = \frac{\exp(v_i)}{\sum_{j \in [N]}\exp(v_j)}.$$
+  - If the alternatives are symmetric, i.e., $v_i = v_j$ for each $(i,j)$ pair, then, $p_i = \frac{1}{N}$. 
+  
+This is what is taught in a typical undergraduate ECON course. 
+
+# Reality is (Slightly) Different
+
+While a number of applications fit the above assumption (reasonably well), it is virtually impossible for a single decision-maker to know everything about every alternative he evaluates. A central assumption -- that the decision-maker knows $U_i$ for each $i$ -- feels like a stretch. 
+
+This got me thinking about how I evaluate alternatives, especially in situations where I know very little about these alternatives. Two example fit this situation very well in my own life. 
+
+  - As a vegetarian living in the US, it is virtually hard for me to find a place that provides a good vegetarian and tasty meal. So, every time I am faced with a task of finding a good lunch/dinner spot, I decide to evaluate each alternative (that my friends suggest) based on the pictures, reviews, menu options, etc., on Yelp/Google Reviews. This is obviously an intensive process. What complicates this more is a need to not visit a previously-visited place. 
+  - How I pick movies to watch on Amazon Prime Video: I know very little about a movie I plan to watch, and don't watch a movie I already watched. So, I read about the movie, IMDB/Rotten Tomato ratings, reviews, etc. Will I perfectly realize the utility I stand to gain from making a particular choice of movie? Highly unlikely. 
+
+# Choices with Search
+
+I provide an illustration below (this is my own take on the problem). 
+
+Let the true type (utility) of the $i^{th}$ alternative be sampled from: 
+$$U_i \sim \mathcal{N}(\mu, \sigma^2).$$
+A decision maker has, at his disposal, $R$ resources (e.g., the budget of time units spent investigating making a decision). He chooses to allot these $R$ resources to investigate these $N$ alternatives. A unit resource can investigate exactly one alternative. The decision-maker chooses $$\mathbf{r} = (r_1, r_2, \ldots, r_N) \\ 
+\text{ s.t. } \mathbf{r} \ge \boldsymbol{0} \text{ and } \mathbf{r} \cdot \boldsymbol{1} \le R. $$
+Each resource provides a noisy unbiased signal of the alternative it investigates. That is, 
+$$s_r \sim \mathcal{N}(U_{i_r}, \sigma_R^2).$$
+The decision-maker's posterior about alternative $i$ is: 
+$$U_i | r_i \sim \mathcal{N}\left(\alpha (r_i) \overline{s}_i + (1-\alpha(r_i)) \mu, \left(\sigma^2 + \frac{\sigma_R^2}{r_i}\right) \alpha_i (1-\alpha_i)\right) \\
+\text{ where } \alpha(r_i) = \frac{\sigma^2}{\sigma^2 + \frac{\sigma_R^2}{r_i}}  \quad
+\text{ and } \overline{s}_i = \frac{\sum_{r: i_r =i} s_r}{r_i}$$
+
+For convenience, refer to $\alpha(r_i)$ as $\alpha_i$. The principal chooses the alternative with the highest posterior mean, i.e., 
+$$i^* = \arg\max_{i \in [N]} \mathbb{E}[U_i | r_i]. $$
+The principal's objective simplifies to: 
+$$\mu + \sigma \max_{\mathbf{r} \ge \boldsymbol{0}} \mathbb{E}_{\mathbf{s|r}} [\max_i \gamma_i z_i] \\
+\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{\sigma^2 r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).$$
+Normalize $\mu = 0$ and $\sigma = 1$. It suffices to solve: 
+$$
+\max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
+\text{ where } \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{r_i}}}
+$$
+Solving this problem analytically can be done for some special cases (e.g., $N = 2$, or the comparison of some heuristics, e.g., the fully symmetric vs. fully asymmetric solution). I provide a numerical comparison below. 

@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decision Making Under Costly Search</title>
+      <link>/post/2020/06/14/teaching-resources/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/06/14/teaching-resources/</guid>
+      <description>Choice Models 101Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.
+A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.\]</description>
+    </item>
     
     <item>
       <title>Useful Templates for First-Time Instructors</title>
@@ -74,9 +84,9 @@ Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427, 300 E Lemon St., Tempe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Interests My broad interests are in incentive and information design in platforms/marketplaces &amp;ndash; environments where a large number of agents interact.
-I am also interested in analyzing problems in retail (also motivated by my experience at Nordstrom).
-Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.  Joint work with Upender Subramanian. Published in Management Science: DOI, SSRN.   Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.</description>
+      <description>Interests My broad interests are in incentive and information design in platforms/marketplaces &amp;ndash; environments where a large number of agents interact. In such environments, agents respond not only to the actions of the platform, but also to the actions ofother agents (i.e., agents exert strategic externalities on each other).
+Besidesm I am also interested in analyzing problems in retail (motivated by my experience at Nordstrom).
+Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.</description>
     </item>
     
     <item>

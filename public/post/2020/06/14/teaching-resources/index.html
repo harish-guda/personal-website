@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Decision Making Under Costly Search | Harish Guda</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Posts</a></li>
+      
+      <li><a href="/about/">Home</a></li>
+      
+      <li><a href="/research/">Research</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/code/">Code</a></li>
+      
+      <li><a href="/files/cv-harishguda.pdf">CV</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Decision Making Under Costly Search</span></h1>
+<h2 class="author">Harish Guda</h2>
+<h2 class="date">2020/06/14</h2>
+</div>
+
+<main>
+
+
+
+<div id="choice-models-101" class="section level1">
+<h1>Choice Models 101</h1>
+<p>Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.</p>
+<ul>
+<li><p>A single decision-maker chooses one among a collection <span class="math inline">\(N\)</span> alternatives, indexed by <span class="math inline">\(i \in [N]\)</span>.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> His (consumption) utility from consuming alternative <span class="math inline">\(i\)</span> is:
+<span class="math display">\[U_i = v_i + \epsilon_i.\]</span></p></li>
+<li><p>The individual observes both <span class="math inline">\(v_i\)</span> and <span class="math inline">\(\epsilon_i\)</span>, and selects the alternative that leads to the greatest consumption utility. That is,
+<span class="math display">\[i^* = \arg\max_{i \in [N]} U_i.\]</span></p></li>
+<li><p>The researcher/analyst observes <span class="math inline">\(v_i\)</span>, the eventual choice, but not <span class="math inline">\(\epsilon_i\)</span>. The most common assumption (for analytical tractability) <a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> is to assume that the user samples his <span class="math inline">\(\epsilon_i\)</span> as:
+<span class="math display">\[\epsilon_i\sim_{i.i.d} Gumbel. \]</span>
+This gives the classic MNL model – a probabilistic choice model – where the individual chooses alternative <span class="math inline">\(i\)</span> with probability:
+<span class="math display">\[p_i := \Pr[\text{alternative } i \text{ is chosen}] = \frac{\exp(v_i)}{\sum_{j \in [N]}\exp(v_j)}.\]</span></p></li>
+<li><p>If the alternatives are symmetric, i.e., <span class="math inline">\(v_i = v_j\)</span> for each <span class="math inline">\((i,j)\)</span> pair, then, <span class="math inline">\(p_i = \frac{1}{N}\)</span>.</p></li>
+</ul>
+<p>This is what is taught in a typical undergraduate ECON course.</p>
+</div>
+<div id="reality-is-slightly-different" class="section level1">
+<h1>Reality is (Slightly) Different</h1>
+<p>While a number of applications fit the above assumption (reasonably well), it is virtually impossible for a single decision-maker to know everything about every alternative he evaluates. A central assumption – that the decision-maker knows <span class="math inline">\(U_i\)</span> for each <span class="math inline">\(i\)</span> – feels like a stretch.</p>
+<p>This got me thinking about how I evaluate alternatives, especially in situations where I know very little about these alternatives. Two example fit this situation very well in my own life.</p>
+<ul>
+<li>As a vegetarian living in the US, it is virtually hard for me to find a place that provides a good vegetarian and tasty meal. So, every time I am faced with a task of finding a good lunch/dinner spot, I decide to evaluate each alternative (that my friends suggest) based on the pictures, reviews, menu options, etc., on Yelp/Google Reviews. This is obviously an intensive process. What complicates this more is a need to not visit a previously-visited place.</li>
+<li>How I pick movies to watch on Amazon Prime Video: I know very little about a movie I plan to watch, and don’t watch a movie I already watched. So, I read about the movie, IMDB/Rotten Tomato ratings, reviews, etc. Will I perfectly realize the utility I stand to gain from making a particular choice of movie? Highly unlikely.</li>
+</ul>
+</div>
+<div id="choices-with-search" class="section level1">
+<h1>Choices with Search</h1>
+<p>One of the papers that I loved reading, titled “On the Magnification of Small Biases in Decision-Making” (<a href="https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/ifree-papers-and-photos/davies-van-wesep-waters-2019.pdf">URL</a>) was motivated by this tweet:</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+You want to maximize the probability of selecting a high-quality candidate. High can pass 100% of tests; low can only pass 90%.<br><br>You can give two (simultaneous) tests. Do you give them to a single candidate, or two different candidates? How do you choose the candidate(s) to test? <a href="https://t.co/hD8yq7Cp3M">https://t.co/hD8yq7Cp3M</a>
+</p>
+— ⑆Luke Stein⑈ (<span class="citation">@lukestein</span>) <a href="https://twitter.com/lukestein/status/1229083990537183232?ref_src=twsrc%5Etfw">February 16, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>The central claim of the paper is that the effort exerted across different alternatives is usually asymmetric. Anytime a symmetric optimization problem involves an asymmetric solution(s), it calls for a closer look.</p>
+<p>I provide an illustration below (this is my own take on the problem).</p>
+<p>Let the true type (utility) of the <span class="math inline">\(i^{th}\)</span> alternative be sampled from:
+<span class="math display">\[U_i \sim \mathcal{N}(\mu, \sigma^2).\]</span>
+A decision maker has, at his disposal, <span class="math inline">\(R\)</span> resources (e.g., time units before making a decision). He chooses to allot these <span class="math inline">\(R\)</span> resources to investigate these <span class="math inline">\(N\)</span> alternatives. A unit resource can investigate exactly one alternative. The decision-maker chooses <span class="math display">\[\mathbf{r} = (r_1, r_2, \ldots, r_N) \\ 
+\text{ s.t. } \mathbf{r} \ge \boldsymbol{0} \text{ and } \mathbf{r} \cdot \boldsymbol{1} \le R. \]</span>
+Each resource provides a noisy unbiased signal of the alternative it investigates. That is,
+<span class="math display">\[s_r \sim \mathcal{N}(U_{i_r}, \sigma_R^2).\]</span>
+The decision-maker’s posterior about alternative <span class="math inline">\(i\)</span> is:
+<span class="math display">\[U_i | r_i \sim \mathcal{N}\left(\alpha (r_i) \overline{s}_i + (1-\alpha(r_i)) \mu, \left(\sigma^2 + \frac{\sigma_R^2}{r_i}\right) \alpha_i (1-\alpha_i)\right) \\
+\text{ where } \alpha(r_i) = \frac{\sigma^2}{\sigma^2 + \frac{\sigma_R^2}{r_i}}  \quad
+\text{ and } \overline{s}_i = \frac{\sum_{r: i_r =i} s_r}{r_i}\]</span></p>
+<p>For convenience, refer to <span class="math inline">\(\alpha(r_i)\)</span> as <span class="math inline">\(\alpha_i\)</span>. The principal chooses the alternative with the highest posterior mean, i.e.,
+<span class="math display">\[i^* = \arg\max_{i \in [N]} \mathbb{E}[U_i | r_i]. \]</span>
+The principal’s objective simplifies to:
+<span class="math display">\[\mu + \sigma \max_{\mathbf{r} \ge \boldsymbol{0}} \mathbb{E}_{\mathbf{s|r}} [\max_i \gamma_i z_i] \\
+\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{\sigma^2 r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).\]</span>
+Normalize <span class="math inline">\(\mu = 0\)</span> and <span class="math inline">\(\sigma = 1\)</span>. It suffices to solve:
+<span class="math display">\[
+\max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
+\text{ where } \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{r_i}}}
+\]</span>
+Solving this problem analytically can be done for some special cases (e.g., <span class="math inline">\(N = 2\)</span>, or the comparison of some heuristics, e.g., the fully symmetric vs. fully asymmetric solution). I provide a numerical comparison below.</p>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Here, <span class="math inline">\([N]\)</span> denotes the set <span class="math inline">\(\{1, 2, \ldots, N\}\)</span>.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>This simplification is due to the property that i.i.d Gumbels are closed under addition.<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  © <a href="https://harishguda.me/about">Harish Guda</a>
+  
+  </footer>
+  </body>
+</html>
+

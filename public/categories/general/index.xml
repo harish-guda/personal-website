@@ -6,10 +6,20 @@
     <description>Recent content in General on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decision Making Under Costly Search</title>
+      <link>/post/2020/06/14/teaching-resources/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/06/14/teaching-resources/</guid>
+      <description>Choice Models 101Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.
+A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.\]</description>
+    </item>
     
     <item>
       <title>Useful Templates for First-Time Instructors</title>
