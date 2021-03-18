@@ -61,7 +61,7 @@ The decision-maker’s posterior about alternative <span class="math inline">\(i
 <span class="math display">\[i^* = \arg\max_{i \in [N]} \mathbb{E}[U_i | r_i]. \]</span>
 The principal’s objective simplifies to:
 <span class="math display">\[\mu + \sigma \max_{\mathbf{r} \ge \boldsymbol{0}} \mathbb{E}_{\mathbf{s|r}} [\max_i \gamma_i z_i] \\
-\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{\sigma^2 r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).\]</span>
+\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{{\sigma^2} r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).\]</span>
 Normalize <span class="math inline">\(\mu = 0\)</span> and <span class="math inline">\(\sigma = 1\)</span>. It suffices to solve:
 <span class="math display">\[
 \max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\

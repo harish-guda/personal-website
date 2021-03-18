@@ -65,7 +65,7 @@ For convenience, refer to $\alpha(r_i)$ as $\alpha_i$. The principal chooses the
 $$i^* = \arg\max_{i \in [N]} \mathbb{E}[U_i | r_i]. $$
 The principal's objective simplifies to: 
 $$\mu + \sigma \max_{\mathbf{r} \ge \boldsymbol{0}} \mathbb{E}_{\mathbf{s|r}} [\max_i \gamma_i z_i] \\
-\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{\sigma^2 r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).$$
+\text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{{\sigma^2} r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).$$
 Normalize $\mu = 0$ and $\sigma = 1$. It suffices to solve: 
 $$
 \max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
