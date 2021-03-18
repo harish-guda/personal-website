@@ -29,7 +29,7 @@ $$U_i = v_i + \epsilon_i.$$
   - The individual observes both $v_i$ and $\epsilon_i$, and selects the alternative that leads to the greatest consumption utility. That is, 
 $$i^* = \arg\max_{i \in [N]} U_i.$$
 
-  - The researcher/analyst observes $v_i$, the eventual choice, but not $\epsilon_i$. The most common assumption (for analytical tractability) ^[This simplification is due to the  property that i.i.d Gumbels are closed under addition.] is to assume that the user samples his $\epsilon_i$ as:
+  - The researcher/analyst observes $v_i$,^[Or proposes a model of $v_i$.] the eventual choice $i^*$, but not $\epsilon_i$. The most common assumption (for analytical tractability) ^[This simplification is due to the  property that i.i.d Gumbels are closed under addition.] is to assume that the user samples his $\epsilon_i$ as:
 $$\epsilon_i\sim_{i.i.d} Gumbel. $$
 This gives the classic MNL model -- a probabilistic choice model -- where the individual chooses alternative $i$ with probability: 
 $$p_i := \Pr[\text{alternative } i \text{ is chosen}] = \frac{\exp(v_i)}{\sum_{j \in [N]}\exp(v_j)}.$$

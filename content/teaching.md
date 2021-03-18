@@ -5,6 +5,7 @@ title: Teaching
 ## Arizona State University
 
 * SCM 551: Operations Planning and Execution - MBA Elective.
+  - [Syllabus](/files/scm-551-syllabus.PDF)
 
 * SCM 502: Operations and Supply Chain Management - MBA Core.
   - [Syllabus](/files/syllabus-scm-502.PDF)

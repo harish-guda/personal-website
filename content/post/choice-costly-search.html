@@ -27,7 +27,7 @@ tags:
 <span class="math display">\[U_i = v_i + \epsilon_i.\]</span></p></li>
 <li><p>The individual observes both <span class="math inline">\(v_i\)</span> and <span class="math inline">\(\epsilon_i\)</span>, and selects the alternative that leads to the greatest consumption utility. That is,
 <span class="math display">\[i^* = \arg\max_{i \in [N]} U_i.\]</span></p></li>
-<li><p>The researcher/analyst observes <span class="math inline">\(v_i\)</span>, the eventual choice, but not <span class="math inline">\(\epsilon_i\)</span>. The most common assumption (for analytical tractability) <a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> is to assume that the user samples his <span class="math inline">\(\epsilon_i\)</span> as:
+<li><p>The researcher/analyst observes <span class="math inline">\(v_i\)</span>,<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> the eventual choice <span class="math inline">\(i^*\)</span>, but not <span class="math inline">\(\epsilon_i\)</span>. The most common assumption (for analytical tractability) <a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> is to assume that the user samples his <span class="math inline">\(\epsilon_i\)</span> as:
 <span class="math display">\[\epsilon_i\sim_{i.i.d} Gumbel. \]</span>
 This gives the classic MNL model – a probabilistic choice model – where the individual chooses alternative <span class="math inline">\(i\)</span> with probability:
 <span class="math display">\[p_i := \Pr[\text{alternative } i \text{ is chosen}] = \frac{\exp(v_i)}{\sum_{j \in [N]}\exp(v_j)}.\]</span></p></li>
@@ -73,6 +73,7 @@ Solving this problem analytically can be done for some special cases (e.g., <spa
 <hr />
 <ol>
 <li id="fn1"><p>Here, <span class="math inline">\([N]\)</span> denotes the set <span class="math inline">\(\{1, 2, \ldots, N\}\)</span>.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
-<li id="fn2"><p>This simplification is due to the property that i.i.d Gumbels are closed under addition.<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p>Or proposes a model of <span class="math inline">\(v_i\)</span>.<a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+<li id="fn3"><p>This simplification is due to the property that i.i.d Gumbels are closed under addition.<a href="#fnref3" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
