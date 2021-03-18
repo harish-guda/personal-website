@@ -18,8 +18,7 @@ I am also interested in analyzing problems in retail (motivated by my experience
   * Published in *Production and Operations Management*: [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12538).
 * The Economics of Agricultural Support Prices in Developing Economies. 
   * Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. 
-  * [PDF](/files/gsp-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
-  * Forthcoming in *Production and Operations Management*. 
+  * Forthcoming in *Production and Operations Management*: [PDF](/files/gsp-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334).
 
 ## Working Papers
 
