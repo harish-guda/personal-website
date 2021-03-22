@@ -9,9 +9,7 @@ title: Teaching
   - I run a series of simulation activities:
   		- the Littlefield Technologies Simulation at the tactical and operational Levels, 
   		- the Supply Chain Simulation at the regional and the global level, 
-  		- the classic (4-tier) beer distribution game
-    
-    among others. 
+  		- the classic (4-tier) beer distribution game 
   - The goal of each simulation involves the students to build an R script (or Excel, if students are not enrolled in Analytics) that aids them in decision-making. 
 
 * SCM 502: Operations and Supply Chain Management - MBA Core.
