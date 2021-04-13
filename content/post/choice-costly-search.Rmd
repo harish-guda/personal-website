@@ -46,7 +46,7 @@ This got me thinking about how I evaluate alternatives, especially in situations
   - As a vegetarian living in the US, it is virtually hard for me to find a place that provides a good vegetarian and tasty meal. So, every time I am faced with a task of finding a good lunch/dinner spot, I decide to evaluate each alternative (that my friends suggest) based on the pictures, reviews, menu options, etc., on Yelp/Google Reviews. This is obviously an intensive process. What complicates this more is a need to not visit a previously-visited place. 
   - How I pick movies to watch on Amazon Prime Video: I know very little about a movie I plan to watch, and don't watch a movie I already watched. So, I read about the movie, IMDB/Rotten Tomato ratings, reviews, etc. Will I perfectly realize the utility I stand to gain from making a particular choice of movie? Highly unlikely. 
 
-# Choices with Search
+# Choices with **Simultaneous** Search
 
 I provide an illustration below (this is my own take on the problem). 
 
@@ -68,7 +68,7 @@ $$\mu + \sigma \max_{\mathbf{r} \ge \boldsymbol{0}} \mathbb{E}_{\mathbf{s|r}} [\
 \text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{{\sigma^2} r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).$$
 Normalize $\mu = 0$ and $\sigma = 1$. It suffices to solve: 
 $$
-\max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
+\max_{\mathbf{r} } \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
 \text{ where } \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{r_i}}}
 $$
 Solving this problem analytically can be done for some special cases (e.g., $N = 2$, or the comparison of some heuristics, e.g., the fully symmetric vs. fully asymmetric solution). I provide a numerical comparison below. 

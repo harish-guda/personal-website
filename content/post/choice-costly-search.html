@@ -64,7 +64,7 @@ The principal’s objective simplifies to:
 \text{ where } \quad  \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{{\sigma^2} r_i}}} \quad \text{ and } z_i \sim_{i.i.d} \mathcal{N}(0, 1).\]</span>
 Normalize <span class="math inline">\(\mu = 0\)</span> and <span class="math inline">\(\sigma = 1\)</span>. It suffices to solve:
 <span class="math display">\[
-\max \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
+\max_{\mathbf{r} } \mathbb{E}_{\mathbf{s | r}} [\max_i \gamma_i z_i] \\
 \text{ where } \gamma_i = \frac{1}{\sqrt{1 + \frac{\sigma_R^2}{r_i}}}
 \]</span>
 Solving this problem analytically can be done for some special cases (e.g., <span class="math inline">\(N = 2\)</span>, or the comparison of some heuristics, e.g., the fully symmetric vs. fully asymmetric solution). I provide a numerical comparison below.</p>
