@@ -46,7 +46,7 @@ This got me thinking about how I evaluate alternatives, especially in situations
   - As a vegetarian living in the US, it is virtually hard for me to find a place that provides a good vegetarian and tasty meal. So, every time I am faced with a task of finding a good lunch/dinner spot, I decide to evaluate each alternative (that my friends suggest) based on the pictures, reviews, menu options, etc., on Yelp/Google Reviews. This is obviously an intensive process. What complicates this more is a need to not visit a previously-visited place. 
   - How I pick movies to watch on Amazon Prime Video: I know very little about a movie I plan to watch, and don't watch a movie I already watched. So, I read about the movie, IMDB/Rotten Tomato ratings, reviews, etc. Will I perfectly realize the utility I stand to gain from making a particular choice of movie? Highly unlikely. 
 
-# Choices with **Simultaneous** Search
+# Choices with *Simultaneous* Search
 
 I provide an illustration below (this is my own take on the problem). 
 
