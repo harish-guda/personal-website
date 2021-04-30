@@ -8,8 +8,14 @@ My broad interests are in incentive and information design in platforms/marketpl
 
 I am also interested in analyzing problems in retail (motivated by my experience at Nordstrom). 
 
-## Publications
 
+## Working Papers
+
+* The Economics of Process Transparency. 
+  * Joint work with Milind Dawande and Ganesh Janakiraman. 
+  * [PDF](/files/process-transparency-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037). 
+
+## Publications
 
 * The Economics of Agricultural Support Prices in Developing Economies. 
   * Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman. 
@@ -23,11 +29,3 @@ I am also interested in analyzing problems in retail (motivated by my experience
 * Optimal Policy for a Stochastic Scheduling Problem with Applications to Surgical Scheduling.
   * Joint work with Milind Dawande, Ganesh Janakiraman and Kyung-Sung Jung. 
   * Published in *Production and Operations Management*: [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.12538).
-
-## Working Papers
-
-* The Economics of Process Transparency. 
-  * Joint work with Milind Dawande and Ganesh Janakiraman. 
-  * [PDF](/files/process-transparency-nonblind.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037). 
-
-
