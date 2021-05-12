@@ -1,0 +1,41 @@
+---
+title: "A Beamer Template for W.P. Carey Affiliated Researchers"
+author: "Harish Guda"
+date: "2021-05-12"
+output:
+  blogdown::html_page:
+    toc: false
+    number_sections: false
+    toc_depth: 1
+slug: "research-resources"
+categories: 
+  - "Beamer"
+  - "LaTeX"
+tags: 
+  - "Research"
+  - "Beamer"
+  - "Public Goods"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+(Disclaimer: This is my own creation. Users can use this at their own discretion)
+
+# A Simple Beamer Template
+
+I created a simple Beamer template based on a research presentation I gave at a recent conference. I realized there was nothing specific to my department/school available out in the internet, so I had to create one from scratch. 
+
+Here are the sample slides: [PDF](https://github.com/harish-guda/wpcarey-beamer-template/raw/master/wpcarey-beamer-template.pdf)
+
+Please feel free to fork this from my [Github repo](https://github.com/harish-guda/wpcarey-beamer-template). 
+
+Some features: 
+
+- Prominently features (slightly modified) ASU colors: <span style="color: maroon;">maroon</span> and <span style="color: gold;">gold</span> 
+- Based on the `madrid` beamer theme: thus, it enables all block styles. 
+- A ticker at the bottom for slide progress. 
+- Three commands: `newterm`, `callout` and `bigquestion`. 
+
+A few options are commented out (e.g., the *Lato* font, `transitionframe`, etc.).  If you have an improved version, please email me: I will be happy to include/replace my style file. 
