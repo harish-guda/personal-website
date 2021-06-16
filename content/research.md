@@ -22,7 +22,7 @@ I am also interested in analyzing problems in retail (motivated by my experience
   * Forthcoming in *Production and Operations Management*. [[DOI](https://onlinelibrary.wiley.com/doi/10.1111/poms.13416)] [[PDF](/files/manuscripts/gsp-nonblind.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334)]
 * "Seemingly-Beneficial" Interventions.
   * Joint work with Milind Dawande and Ganesh Janakirmanan. 
-  * Forthcoming in *Production and Operations Management*: [[PDF](/files/manuscripts/Seemingly-Beneficial-Interventions-NonBlind.pdf)], [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634)]
+  * Forthcoming in *Production and Operations Management*. [[DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13457)] [[PDF](/files/manuscripts/Seemingly-Beneficial-Interventions-NonBlind.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634)]
 * Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.
   * Joint work with Upender Subramanian. 
   * Published in *Management Science*. [[DOI](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3050)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2895227)]
