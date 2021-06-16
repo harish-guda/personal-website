@@ -13,7 +13,7 @@ I am also interested in analyzing problems in retail (motivated by my experience
 
 * The Economics of Process Transparency. 
   * Joint work with Milind Dawande and Ganesh Janakiraman. 
-  * [[PDF](/files/manuscripts/process-transparency-nonblind.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)] 
+  * [[PDF](/files/manuscripts/process-transparency-nonblind.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)][[slides]](/files/slides/process-transparency.pdf) 
 
 ## Publications
 
