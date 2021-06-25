@@ -6,7 +6,7 @@ title: Teaching
 
 I teach two courses to the FT-MBA students at ASU, typically in the Fall. 
 
-* SCM 551: Operations Planning and Execution - MBA Elective. [[syllabus](/files/scm-551-syllabus.PDF)]
+* SCM 551: Operations Planning and Execution - MBA Elective, MS (SCM). [[syllabus](/files/scm-551-syllabus.PDF)]
   - I run a series of simulation activities:
   		- the Littlefield Technologies simulation at the tactical and operational Levels (appropriately titled the *planning* version and the *execution* version), 
   		- the Supply Chain simulation at the *regional* and the *global* level, 
