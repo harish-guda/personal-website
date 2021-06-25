@@ -20,6 +20,5 @@ I teach two courses to the FT-MBA students at ASU, typically in the Fall.
 
 While a PhD student in the Operations Management group at UT Dallas, I was a student instructor during the last few years of my PhD. 
 
-* OPRE 3310: Introduction to Operations Management - BS (BA) Core.
-  - [Syllabus](/files/syllabus-opre-3310-fall-2017.PDF)
+* OPRE 3310: Introduction to Operations Management - BS (BA). [[syllabus](/files/syllabus-opre-3310-fall-2017.PDF)]
   - Nominated for Outstanding Graduate Teacher Award. 
