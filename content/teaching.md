@@ -13,7 +13,7 @@ I teach two courses to the FT-MBA students at ASU, typically in the Fall.
   		- the classic (4-tier) beer distribution game.
   - The goal of each simulation involves the students to build an R script (or Excel, if students are not enrolled in Analytics) that aids them in decision-making and coordination. 
 
-* SCM 502: Operations and Supply Chain Management - MBA Core. [[Syllabus](/files/syllabus-scm-502.PDF)]
+* SCM 502: Operations and Supply Chain Management - MBA Core. [[syllabus](/files/syllabus-scm-502.PDF)]
   - I plan to maintain an independent [repository](https://harish-guda.github.io/scm-502) of past content -- this is **work-in-progress**. Students may use this at their own discretion.
 
 ## University of Texas at Dallas
