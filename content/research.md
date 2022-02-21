@@ -4,7 +4,7 @@ title: Research
 
 ## Interests
 
-My broad interests are in incentive and information design in service operations and platforms. 
+My broad interests are in incentive and information design in service operations and platforms. I enjoy theory. 
 
 
 ## Working Papers

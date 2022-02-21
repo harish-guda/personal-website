@@ -11,11 +11,8 @@ I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain 
 
 My research interests are at the interface of technology, marketplace design and operations/supply chain management. 
 
-I am an R enthusiast. 
-
 ## Contact
 
 - Email: `hguda [AT] asu [DOT] edu`.
 - Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287
-- Phone: `480 - 727 - 3561`.
 - [ASU](https://wpcarey.asu.edu/people/profile/3485205), [Linkedin](https://www.linkedin.com/in/harish-guda/), [Twitter](https://twitter.com/harish_guda), [Scholar](https://scholar.google.com/citations?user=F_gEBogAAAAJ&hl=en&authuser=1). 
