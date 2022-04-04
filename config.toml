@@ -14,7 +14,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "Home"
-    url = ""
+    url = "/about/"
     weight = 1
 [[menu.main]]
     name = "Research"
@@ -34,7 +34,7 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = ""
     weight = 6
 
 [params]
