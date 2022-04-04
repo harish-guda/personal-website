@@ -33,7 +33,7 @@ footnotereturnlinkcontents = "↩"
     url = "/files/cv-harishguda.pdf"
     weight = 5
 [[menu.main]]
-    name = "Posts"
+    name = "Miscellany"
     url = ""
     weight = 6
 
