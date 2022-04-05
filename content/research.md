@@ -16,7 +16,7 @@ My broad interests are in incentive and information design in service operations
 ## Publications
 * An analysis of operating efficiency and policy implications in last-mile transportation following Amazon's integration
   * Joint work with Lina Wang and Elliot Rabinovich. 
-  * Published in *Journal of Operations Management* (March 2022). [doi](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1172)
+  * Published in *Journal of Operations Management* (March 2022). [[doi](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1172)]
 
 * "Seemingly-Beneficial" Interventions.
   * Joint work with Milind Dawande and Ganesh Janakirmanan. 
