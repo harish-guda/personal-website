@@ -14,7 +14,7 @@ My broad interests are in incentive and information design in service operations
   * [[pdf](/files/manuscripts/process-transparency-nonblind.pdf)][[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)][[slides](/files/slides/process-transparency.pdf)]
 
 ## Publications
-* An analysis of operating efficiency and policy implications in last-mile transportation following Amazon's integration
+* An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon's Integration
   * Joint work with Lina Wang and Elliot Rabinovich. 
   * Published in *Journal of Operations Management* (March 2022) [[doi](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1172)]
 * "Seemingly-Beneficial" Interventions.
