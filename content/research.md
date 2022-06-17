@@ -4,7 +4,7 @@ title: Research
 
 ## Interests
 
-In my research, I study incentive and information design problems in service operations, platforms, marketplaces, retail, gig-economy, agriculture (with an emphasis on issues in emerging economies).  
+In my research, I study incentive and information design problems in service operations and platforms.  
 
 ## Working Papers
 
