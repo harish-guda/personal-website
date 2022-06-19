@@ -11,7 +11,7 @@ I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain 
 
 My research interests are at the interface of technology, marketplace design and operations management. I am also interested in the economics of supply chains. 
 
-I enjoy theory. I am an R enthusiast. 
+I enjoy theory. 
 
 ## Contact
 
