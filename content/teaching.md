@@ -14,7 +14,7 @@ I teach two courses to the FT-MBA students at ASU, typically in the Fall.
 [^1]: I hate using the term *analytics* (or *data-science*). 
 
 
-- SCM 501/502: Operations and Supply Chain Management (MBA Core) [[syllabus](/files/syllabus-scm-502.PDF)]
+- SCM 501/502: Operations and Supply Chain Management (MBA/MIM Core) [[syllabus](/files/syllabus-scm-502.PDF)]
   - I plan to maintain an independent [repository](https://harish-guda.github.io/scm-502) of past content -- this is **work-in-progress**. Students may use this at their own discretion.
   
 
