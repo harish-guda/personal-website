@@ -6,13 +6,14 @@ title: Research
 
 I study incentive and information design problems in service operations management and in the platform-economy.
 
-## Working Papers
+<!-- ## Working Papers -->
+
+
+## Publications
 
 -   The Economics of Process Transparency.
     -   Joint work with Milind Dawande and Ganesh Janakiraman.
-    -   \[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
-
-## Publications
+    -   *Production and Operations Management* (forthcoming).  \[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
 
 -   An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon's Integration.
     -   Joint work with Lina Wang and Elliot Rabinovich.
