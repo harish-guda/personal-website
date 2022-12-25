@@ -1,0 +1,74 @@
+---
+title: "Expected Mean Residual Lifetime at the Time of Failure"
+author: "Harish Guda"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In a [recent paper](https://harishguda.me/files/manuscripts/process-transparency.pdf) I worked on, I defined an interesting notion for a random variable called the **expected mean residual life** at **the time of failure**. I had not seen this quantity discussed in the prior literature. So, I decided to pen some ideas below. 
+
+# Mean Residual Lifetime and Hazard Rate
+
+Consider a random variable, say $X$, that is drawn from a p.d.f. $f(\cdot)$ and c.d.f $F(\cdot)$. The mean residual life of $X$ at $t$ is defined as:
+$$
+MRL_X(t) = \mathbb{E}[X-t | X > t].
+$$
+Essentially, $MRL_X(t)$ informs us of the following: if an object with a random lifetime ($X$) has survived until time $t$, then, on average, how much longer can we expect it to survive? 
+
+A closely related idea is the hazard (or failure) rate, which is the following:
+$$
+h_X(t) = \frac{f(t)}{1 - F(t)}
+$$
+The hazard rate informs us of the likelihood of the object dying at time $t$, given that it has survived until time $t$. 
+
+Both these notions are present in just about every textbook you'll read on survival/reliability analysis. The latter notion is also popular in other areas, e.g., economic theory, where it is common to make assumptions, e.g., monotone hazard rates, for r.v.'s of interest. 
+
+# Modeling Task Durations
+
+In my work, I was interested in modeling the duration of tasks in a process. The literature commonly assumes one of the following: 
+
+* *Constant MRL*: 
+    - In the context of duration, a task that is exponentially distributed has, on average, the same amount of work left even after spending a positive amount of time working on it. An example I like to think is creative work: let's say that you need a spark to solve a problem (think: a 150-year old open question). The spark can happen at any time, and until you have it, you haven't solved the problem. So, your expectation of how much longer you need to solve the problem has not changed even after spending some time working on it. 
+    - The only (continuous) distribution that satisfies this property is the exponential distribution. 
+
+* *Decreasing MRL*: 
+    - The above might case might be theoretically useful, but not very practical. Far more common are tasks where time spent reduces the expected amount of work left. That is, $MRL_X(t)$ is decreasing in $t$. 
+    - Many members of the exponential family follow DMRL. 
+    - DMRL generalizes increasing hazard/failure rate.
+    
+# EMRL at the Time of Failure
+
+Consider the expected value of MRL **a moment** before its failure, i.e., consider two i.i.d. r.v.'s, say $X, X'$.
+$$ EMRL \text{ at Failure } = E_{X, X'}[X - X' | X \ge X'] = E_{X'}[MRL_X(X')].$$
+In short, I call it $EMRL@F$. One way to think about $EMRL@F$ is as follows: Suppose God were to ask an object (that he knows is about to fail) how much longer it's got left to live. That's $MRL$. Now, the time instant that God were to ask is random. So, we take an expectation based on the time instant this object will fail. This is $EMRL@F$. 
+
+Below, I provide a simple way to simulate (i.e., a numerical approximation by enumeration) $EMRL@F$ for any r.v. For simplicity, I use the lognormal(0,1) distribution. 
+```{r lognormal-emrl, echo=TRUE}
+n <- 10000
+x <- rlnorm(n, 0, 1)
+xP <- rlnorm(n, 0, 1)
+s <- 0
+d <- 0
+for (i in 1:n) {
+  if (x[i] >= xP[i]) {
+    s <- s + (x[i] - xP[i])
+    d <- d + 1
+  }
+}
+emrlf <- (s/d)
+
+emrlf
+```
+
+Observe that this is different from the mean of lognormal distribution itself. 
+```{r}
+mean(x)
+```
+
+# Beyond $EMRL@F$
+
+There may be other properties of this r.v. $(X - X' | X \ge X')$. If there are associated properties that you may come across, please let me know. 
