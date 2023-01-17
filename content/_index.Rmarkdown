@@ -1,7 +1,7 @@
 ---
-title: Posts
+title: Miscellanous Posts
 ---
 
-# Posts
+# Miscellaneous Posts
 
 
