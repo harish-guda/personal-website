@@ -12,7 +12,7 @@ I have donated to the following organizations in the past. Please consider donat
 
 4. [Valley of the Sun United](https://vsuw.org/): Through my employer ASU, I participate in [ASU's Pledge](https://unitedway.asu.edu/) every year. VSU focuses on multiple issues, including housing and homelessness. In the last few years, Arizona has seen the [largest increase in homelessness](https://cronkitenews.azpbs.org/2023/01/13/arizona-led-nation-for-rise-in-homeless-youth-last-year-hud-report-says/) in the US. Click [here](https://vsuw.org/donate#donate) to donate. 
 
-5. [Tempe Shelter Dog Dash](https://raceroster.com/events/2023/63248/shelter-dog-dash): The City of Tempe organizes a 5k run every April to raise funds for the dog shelters in Maricopa county. While the organization of the run is a hit-or-miss, I support the cause. If you are from Tempe (or from the greater Phoenix region), the run is organized near the Kiwanis Park/Lake, and is a pleasant place to run. I try to get sub-25 minutes each time I run. 
+5. [Tempe Shelter Dog Dash](https://raceroster.com/events/2023/63248/shelter-dog-dash): The City of Tempe organizes a 5k run every April to raise funds for the dog shelters in Maricopa county. While the organization of the run is a hit-or-miss, I support the cause. If you are from Tempe (or from the greater Phoenix region), the run is organized near the [Kiwanis Park/Lake](https://www.tempetourism.com/things-to-do/kiwanis-park/), and is a pleasant place to run. I try to get sub-25 minutes each time I run. 
 
 6. [SVK Temple](https://www.aztemple.org/): A temple close to my home, that distributes free food every night. I visit the temple also as an opportunity to meditate once a week (month?), and for their October kutcheris. 
 

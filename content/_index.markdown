@@ -1,5 +1,5 @@
 ---
-title: Miscellanous Posts
+title: Posts
 ---
 
 # Miscellaneous Posts
