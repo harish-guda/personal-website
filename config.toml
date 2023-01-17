@@ -33,8 +33,8 @@ footnotereturnlinkcontents = "↩"
     url = ""
     weight = 5
 [[menu.main]]
-    name = "Philanthropy"
-    url = "/philanthropy"
+    name = "Charity"
+    url = "/charity"
     weight = 6
 
 [params]
