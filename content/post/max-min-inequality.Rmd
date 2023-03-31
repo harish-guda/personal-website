@@ -30,7 +30,7 @@ $$
 
 # An Interpretation
 
-While it's easy to algebraically think/vizualize this result in a 3D space, one intuitive way to think of this result is a game with an adversary (a zero-sum game). Suppose your (resp., adversary's) action set is $Z$ (resp., $W$). Your payoff from an action $w$ and adversary's action $z$ is $f(z,w)$, while the adversary's payoff is $-f(z, w)$. The result states that your *best worst-case payoff* is inferior to the *worst best-case payoff*. Stated differently, you are better off moving second than moving first in a game with an adversary. I find it intuitive to  remember this result as **the second-mover** result.
+While it's easy to algebraically think/vizualize this result in a 3D space, one intuitive way to think of this result is a game with an adversary (a zero-sum game). Suppose your (resp., adversary's) action set is $Z$ (resp., $W$). Your payoff from an action $z$ and adversary's action $w$ is $f(z,w)$, while the adversary's payoff is $-f(z, w)$. The result states that your *best worst-case payoff* is inferior to the *worst best-case payoff*. Stated differently, you are better off moving second than moving first in a game with an adversary. I find it intuitive to  remember this result as **the second-mover** result.
 
 Edit: I was informed recently that this interpretation is also present in the textbook [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Boyd and Vandenberghe (see Chapter 5.4.3). 
 
