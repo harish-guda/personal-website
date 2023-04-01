@@ -23,7 +23,7 @@ One of my favorite results in optimization is the max-min inequality. This is ta
 
 # The Result
 
-Consider a bivariate function $f(z, w)$, $(z, w) \in Z \times W$. Then, 
+Consider a bivariate function $f(z, w)$, $z \in Z$, $w \in W$. Then, 
 $$
 \sup_{z \in Z} \inf_{w \in W} f(z, w) \le \inf_{w \in W}\sup_{z \in Z}f(z, w).
 $$
