@@ -23,9 +23,9 @@ One of my favorite results in optimization is the max-min inequality. This is ta
 
 # The Result
 
-Consider a bivariate function $f(z, w)$, $z \in Z$, $w \in W$. Then, 
+Consider a bivariate function $f(z, w)$, $z \in Z$, $w \in W$. It's easier to think of the sets $Z$ and $W$ as finite sets, or a convex subset of $\mathbb{R}$ (although the result is more general). Then, 
 $$
-\sup_{z \in Z} \inf_{w \in W} f(z, w) \le \inf_{w \in W}\sup_{z \in Z}f(z, w).
+\max_{z \in Z} \min_{w \in W} f(z, w) \le \min_{w \in W}\max_{z \in Z}f(z, w).
 $$
 
 # An Interpretation
@@ -44,12 +44,12 @@ I've seen at least three different proof ideas for this result. My favorite one 
 
 Suppose the result does not hold. That is, $\exists z_0$ s.t. 
 $$
-\inf_{w \in W} f(z_0, w) > \inf_{w \in W} \sup_{z \in Z} f(z,w). 
+\min_{w \in W} f(z_0, w) > \min_{w \in W} \max_{z \in Z} f(z,w). 
 $$
 In words, the above inequality states that there exists an action $z_0$ that guarantees you a strictly higher payoff than what would happen if you move second. 
 
 But this is equivalent to 
 $$
-\inf_{w \in W}\sup_{z \in \{z_0\}}f(z, w) > \inf_{w \in W} \sup_{z \in Z} f(z,w)
+\min_{w \in W}\max_{z \in \{z_0\}}f(z, w) > \min_{w \in W} \max_{z \in Z} f(z,w)
 $$
-That is, you do strictly better if your action set is the singleton set $\{z_0\}$ than a superset of $z_0$. But this is impossible, since your action set is a superset of $z_0$, so you must do at least as well. This completes the proof. 
+That is, you do strictly better if your action set is the singleton set $\{z_0\}$ than a superset of $z_0$. But this is impossible! Since your action set (in the RHS) is a superset of $z_0$, you must do at least as well. We have a contradiction, and this completes the proof. 

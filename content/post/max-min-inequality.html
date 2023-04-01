@@ -20,9 +20,9 @@ tags:
 <p>One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows.</p>
 <div id="the-result" class="section level1">
 <h1>The Result</h1>
-<p>Consider a bivariate function <span class="math inline">\(f(z, w)\)</span>, <span class="math inline">\(z \in Z\)</span>, <span class="math inline">\(w \in W\)</span>. Then,
+<p>Consider a bivariate function <span class="math inline">\(f(z, w)\)</span>, <span class="math inline">\(z \in Z\)</span>, <span class="math inline">\(w \in W\)</span>. It’s easier to think of the sets <span class="math inline">\(Z\)</span> and <span class="math inline">\(W\)</span> as finite sets, or a convex subset of <span class="math inline">\(\mathbb{R}\)</span> (although the result is more general). Then,
 <span class="math display">\[
-\sup_{z \in Z} \inf_{w \in W} f(z, w) \le \inf_{w \in W}\sup_{z \in Z}f(z, w).
+\max_{z \in Z} \min_{w \in W} f(z, w) \le \min_{w \in W}\max_{z \in Z}f(z, w).
 \]</span></p>
 </div>
 <div id="an-interpretation" class="section level1">
@@ -39,12 +39,12 @@ tags:
 <p>I’ve seen at least three different proof ideas for this result. My favorite one is the proof by contradiction. I share that below.</p>
 <p>Suppose the result does not hold. That is, <span class="math inline">\(\exists z_0\)</span> s.t.
 <span class="math display">\[
-\inf_{w \in W} f(z_0, w) &gt; \inf_{w \in W} \sup_{z \in Z} f(z,w).
+\min_{w \in W} f(z_0, w) &gt; \min_{w \in W} \max_{z \in Z} f(z,w).
 \]</span>
 In words, the above inequality states that there exists an action <span class="math inline">\(z_0\)</span> that guarantees you a strictly higher payoff than what would happen if you move second.</p>
 <p>But this is equivalent to
 <span class="math display">\[
-\inf_{w \in W}\sup_{z \in \{z_0\}}f(z, w) &gt; \inf_{w \in W} \sup_{z \in Z} f(z,w)
+\min_{w \in W}\max_{z \in \{z_0\}}f(z, w) &gt; \min_{w \in W} \max_{z \in Z} f(z,w)
 \]</span>
-That is, you do strictly better if your action set is the singleton set <span class="math inline">\(\{z_0\}\)</span> than a superset of <span class="math inline">\(z_0\)</span>. But this is impossible, since your action set is a superset of <span class="math inline">\(z_0\)</span>, so you must do at least as well. This completes the proof.</p>
+That is, you do strictly better if your action set is the singleton set <span class="math inline">\(\{z_0\}\)</span> than a superset of <span class="math inline">\(z_0\)</span>. But this is impossible! Since your action set (in the RHS) is a superset of <span class="math inline">\(z_0\)</span>, you must do at least as well. We have a contradiction, and this completes the proof.</p>
 </div>
