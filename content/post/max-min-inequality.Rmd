@@ -42,7 +42,7 @@ This result has a lot of applications, but one place I've seen this result often
 
 I've seen at least three different proof ideas for this result. My favorite one is the proof by contradiction. I share that below. 
 
-Suppose the result does not hold. That is, $\exists z_0$ s.t. 
+Suppose the result does not hold. That is, $\exists$ an $f(\cdot)$ and $z_0$ s.t. 
 $$
 \min_{w \in W} f(z_0, w) > \min_{w \in W} \max_{z \in Z} f(z,w). 
 $$

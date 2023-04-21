@@ -19,3 +19,5 @@ I have donated to the following organizations in the past. Please consider donat
 7. [SVK Temple](https://www.aztemple.org/): A temple close to my home, that distributes free food every night. I visit the temple also as an opportunity to meditate once a week (month?), and for their October kutcheris. 
 
 8. [Akshaya Patra](https://www.akshayapatrausa.org/): Akshaya Patra feeds underprivileged children in India to help them stay at school, instead of dropping out to participate in the labor force (as child labor). My first exposure to Operations Research was through a [paper](https://www.jstor.org/stable/43699346) on vehicle routing to help Akshaya Patra better route their food-vans to various schools in Bangalore. 
+
+9. [Dr. John Konopka Memorial Scholarship](https://www.asufoundation.org/colleges-and-programs/schools-and-colleges/w.-p.-carey-school-of-business/dr.-john-konopka-memorial-scholarship-CA124384.html): Dr. Konopka was my colleague in my department, and one of the members of our afternoon coffee-runs. The scholarship supports students at the W.P. Carey School of Business.I donate to this scholarship in his memory. 
