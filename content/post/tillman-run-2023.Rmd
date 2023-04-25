@@ -19,8 +19,6 @@ tags:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Pat Tillman Run
-
 One of my favorite runs in Tempe is the [Pat Tillman Run](https://pattillmanfoundation.org/pats-run/), organized by the Pat Tillman Foundation. 
 
 The organization this year was great. I was surprised to see more than 28,000 participants in the event this year. Bib #'s and start times depend on self-reported time per mile. I (think) I gave something around 10 minutes/mile, so I was part of bib #'s 18,000-19,000. While the event was supposed to start at 7am, given the crowd, they started the race in phases. I was in the 18th batch, and my run started at around 7:45am. 
@@ -39,9 +37,6 @@ It was warm by the time I started -- AZ heat really sets in early. Thanks to the
 
 Perhaps, my favorite part of a run is the finish. I could get a surge towards the end and managed to cut my target 45 minutes by a couple of minutes. The race ends at the 42nd yard of the ASU football stadium (42 for Tillman). 
 
-Here's me at the end with a medal.
+Here's the final timings based on the chip in my bib.
 
-![medal](races-pictures/2023/tillman-run/finish-line.jpg)
-Here's the final timings based on the chip in my bib. 
-
-![certificate](races-pictures/2023/tillman-run/certificate.png)
+![](/races-pictures/2023/tillman-run/certificate.png)
