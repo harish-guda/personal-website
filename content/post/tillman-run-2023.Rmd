@@ -27,7 +27,11 @@ I was super under-prepared for this run. I didn't have a flipcase for my phone a
 
 ## The Course
 
+<center>
+
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8909540959"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+</center>
 
 ## Run
 
@@ -39,4 +43,16 @@ Perhaps, my favorite part of a run is the finish. I could get a surge towards th
 
 Here's the final timings based on the chip in my bib.
 
+<center>
+
 ![](/races-pictures/2023/tillman-run/certificate.png)
+
+</center>
+
+And me with the medal. 
+
+<center>
+
+![](/races-pictures/2023/tillman-run/medal.jpg)
+
+</center>
