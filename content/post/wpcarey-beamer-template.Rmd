@@ -7,7 +7,7 @@ output:
     toc: false
     number_sections: false
     toc_depth: 1
-slug: "research-resources"
+slug: "wpc-beamer-template"
 categories: 
   - "Beamer"
   - "LaTeX"

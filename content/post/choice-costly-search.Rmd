@@ -7,7 +7,7 @@ output:
     toc: false
     number_sections: false
     toc_depth: 1
-slug: "teaching-resources"
+slug: "decision-making-costly-search"
 categories: 
   - "General"
 tags: 

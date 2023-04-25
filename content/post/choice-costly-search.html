@@ -7,7 +7,7 @@ output:
     toc: false
     number_sections: false
     toc_depth: 1
-slug: "teaching-resources"
+slug: "decision-making-costly-search"
 categories: 
   - "General"
 tags: 
@@ -16,7 +16,6 @@ tags:
   - "Decision Making Under Uncertainty"
 ---
 
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <div id="choice-models-101" class="section level1">
@@ -49,7 +48,7 @@ This gives the classic MNL model – a probabilistic choice model – where the 
 <p>I provide an illustration below (this is my own take on the problem).</p>
 <p>Let the true type (utility) of the <span class="math inline">\(i^{th}\)</span> alternative be sampled from:
 <span class="math display">\[U_i \sim \mathcal{N}(\mu, \sigma^2).\]</span>
-A decision maker has, at his disposal, <span class="math inline">\(R\)</span> resources (e.g., the budget of time units spent investigating making a decision). He chooses to allot these <span class="math inline">\(R\)</span> resources to investigate these <span class="math inline">\(N\)</span> alternatives. A unit resource can investigate exactly one alternative. The decision-maker chooses <span class="math display">\[\mathbf{r} = (r_1, r_2, \ldots, r_N) \\ 
+A decision maker has, at his disposal, <span class="math inline">\(R\)</span> resources (e.g., the budget of time units spent investigating making a decision). He chooses to allot these <span class="math inline">\(R\)</span> resources to investigate these <span class="math inline">\(N\)</span> alternatives. A unit resource can investigate exactly one alternative. The decision-maker chooses <span class="math display">\[\mathbf{r} = (r_1, r_2, \ldots, r_N) \\
 \text{ s.t. } \mathbf{r} \ge \boldsymbol{0} \text{ and } \mathbf{r} \cdot \boldsymbol{1} \le R. \]</span>
 Each resource provides a noisy unbiased signal of the alternative it investigates. That is,
 <span class="math display">\[s_r \sim \mathcal{N}(U_{i_r}, \sigma_R^2).\]</span>
@@ -69,7 +68,7 @@ Normalize <span class="math inline">\(\mu = 0\)</span> and <span class="math inl
 \]</span>
 Solving this problem analytically can be done for some special cases (e.g., <span class="math inline">\(N = 2\)</span>, or the comparison of some heuristics, e.g., the fully symmetric vs. fully asymmetric solution). I provide a numerical comparison below.</p>
 </div>
-<div class="footnotes">
+<div class="footnotes footnotes-end-of-document">
 <hr />
 <ol>
 <li id="fn1"><p>Here, <span class="math inline">\([N]\)</span> denotes the set <span class="math inline">\(\{1, 2, \ldots, N\}\)</span>.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
