@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Results on Harish Guda</title>
+    <link>https://harishguda.me/tags/results/</link>
+    <description>Recent content in Results on Harish Guda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://harishguda.me/tags/results/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Max-Min Inequality</title>
+      <link>https://harishguda.me/post/2023/03/31/research/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2023/03/31/research/</guid>
+      <description>One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows.
+The ResultConsider a bivariate function \(f(z, w)\), \(z \in Z\), \(w \in W\). It’s easier to think of the sets \(Z\) and \(W\) as finite sets, or a convex subset of \(\mathbb{R}\) (although the result is more general).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,23 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Harish Guda</title>
-    <link>/tags/research/</link>
+    <link>https://harishguda.me/tags/research/</link>
     <description>Recent content in Research on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://harishguda.me/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beamer Template for W.P. Carey Affiliated Researchers</title>
+      <link>https://harishguda.me/post/2021/05/12/research-resources/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2021/05/12/research-resources/</guid>
+      <description>(Disclaimer: This is my own creation. Users can use this at their own discretion)
+A Simple Beamer TemplateI created a simple Beamer template based on a research presentation I gave at a recent conference. I realized there was nothing specific to my department/school available out in the internet, so I had to create one from scratch.
+Here are the sample slides: PDF
+Please feel free to fork this from my Github repo.</description>
+    </item>
     
     <item>
       <title>Decision Making Under Costly Search</title>
-      <link>/post/2020/06/14/teaching-resources/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <link>https://harishguda.me/post/2021/03/18/teaching-resources/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/06/14/teaching-resources/</guid>
+      <guid>https://harishguda.me/post/2021/03/18/teaching-resources/</guid>
       <description>Choice Models 101Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.
-A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.\]</description>
+A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.</description>
     </item>
     
   </channel>

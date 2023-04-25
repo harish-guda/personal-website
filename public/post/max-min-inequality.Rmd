@@ -1,0 +1,55 @@
+---
+title: "The Max-Min Inequality"
+author: "Harish Guda"
+date: "2023-03-31"
+output:
+  blogdown::html_page:
+    toc: false
+    number_sections: false
+    toc_depth: 1
+slug: "research"
+categories: 
+  - "General"
+tags: 
+  - "Proofs"
+  - "Results"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows. 
+
+# The Result
+
+Consider a bivariate function $f(z, w)$, $z \in Z$, $w \in W$. It's easier to think of the sets $Z$ and $W$ as finite sets, or a convex subset of $\mathbb{R}$ (although the result is more general). Then, 
+$$
+\max_{z \in Z} \min_{w \in W} f(z, w) \le \min_{w \in W}\max_{z \in Z}f(z, w).
+$$
+
+# An Interpretation
+
+While it's easy to algebraically think/vizualize this result in a 3D space, one intuitive way to think of this result is a game with an adversary (a zero-sum game). Suppose your (resp., adversary's) action set is $Z$ (resp., $W$). Your payoff from an action $z$ and adversary's action $w$ is $f(z,w)$, while the adversary's payoff is $-f(z, w)$. The result states that your *best worst-case payoff* is inferior to the *worst best-case payoff*. Stated differently, you are better off moving second than moving first in a game with an adversary. I find it intuitive to  remember this result as **the second-mover** result.
+
+Edit: I was informed recently that this interpretation is also present in the textbook [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Boyd and Vandenberghe (see Chapter 5.4.3). 
+
+# Where This (Can) Show Up
+
+This result has a lot of applications, but one place I've seen this result often is in robust optimization, which is essentially a game with an adversary. This result provides a simple bound on the worst payoff a decision-maker can get if they were to play an adversary. 
+
+# A (Simple) Proof
+
+I've seen at least three different proof ideas for this result. My favorite one is the proof by contradiction. I share that below. 
+
+Suppose the result does not hold. That is, $\exists$ an $f(\cdot)$ and $z_0$ s.t. 
+$$
+\min_{w \in W} f(z_0, w) > \min_{w \in W} \max_{z \in Z} f(z,w). 
+$$
+In words, the above inequality states that there exists an action $z_0$ that guarantees you a strictly higher payoff than what would happen if you move second. 
+
+But this is equivalent to 
+$$
+\min_{w \in W}\max_{z \in \{z_0\}}f(z, w) > \min_{w \in W} \max_{z \in Z} f(z,w)
+$$
+That is, you do strictly better if your action set is the singleton set $\{z_0\}$ than a superset of $z_0$. But this is impossible! Since your action set (in the RHS) is a superset of $z_0$, you must do at least as well. We have a contradiction, and this completes the proof. 

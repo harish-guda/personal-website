@@ -2,41 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Harish Guda</title>
-    <link>/</link>
+    <link>https://harishguda.me/</link>
     <description>Recent content in Posts on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://harishguda.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Max-Min Inequality</title>
+      <link>https://harishguda.me/post/2023/03/31/research/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2023/03/31/research/</guid>
+      <description>One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows.
+The ResultConsider a bivariate function \(f(z, w)\), \(z \in Z\), \(w \in W\). It’s easier to think of the sets \(Z\) and \(W\) as finite sets, or a convex subset of \(\mathbb{R}\) (although the result is more general).</description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expected Mean Residual Lifetime at the Time of Failure</title>
+      <link>https://harishguda.me/post/2022/12/24/expected-mean-residual-lifetime-at-the-time-of-failure/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2022/12/24/expected-mean-residual-lifetime-at-the-time-of-failure/</guid>
+      <description>In a recent paper I worked on, I defined an interesting notion for a random variable called the expected mean residual life at the time of failure. I had not seen this quantity discussed in the prior literature. So, I decided to pen some ideas below.
+Mean Residual Lifetime and Hazard RateConsider a random variable, say \(X\), that is drawn from a p.d.f. \(f(\cdot)\) and c.d.f \(F(\cdot)\). The mean residual life of \(X\) at \(t\) is defined as:\[MRL_X(t) = \mathbb{E}[X-t | X &amp;gt; t].</description>
+    </item>
     
+    <item>
+      <title>A Beamer Template for W.P. Carey Affiliated Researchers</title>
+      <link>https://harishguda.me/post/2021/05/12/research-resources/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2021/05/12/research-resources/</guid>
+      <description>(Disclaimer: This is my own creation. Users can use this at their own discretion)
+A Simple Beamer TemplateI created a simple Beamer template based on a research presentation I gave at a recent conference. I realized there was nothing specific to my department/school available out in the internet, so I had to create one from scratch.
+Here are the sample slides: PDF
+Please feel free to fork this from my Github repo.</description>
+    </item>
     
     <item>
       <title>Decision Making Under Costly Search</title>
-      <link>/post/2020/06/14/teaching-resources/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <link>https://harishguda.me/post/2021/03/18/teaching-resources/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/06/14/teaching-resources/</guid>
+      <guid>https://harishguda.me/post/2021/03/18/teaching-resources/</guid>
       <description>Choice Models 101Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.
-A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.\]</description>
+A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.</description>
     </item>
     
     <item>
       <title>Useful Templates for First-Time Instructors</title>
-      <link>/post/2019/12/18/teaching-resources/</link>
+      <link>https://harishguda.me/post/2019/12/18/teaching-resources/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/12/18/teaching-resources/</guid>
+      <guid>https://harishguda.me/post/2019/12/18/teaching-resources/</guid>
       <description>I am writing this post as I complete my first quarter of teaching as an Assistant Professor. I taught the core Operations and Supply Chain Management to FT MBAs.1
 As I went through this process for the first time, I realized that I needed templates for various files (e.g., syllabus, exams, homework assignments, case writeups, instruction slides, etc.). While there was an abundance of such resources online, it is hard for a single user to try out everything to weed out the bad ones from the good ones.</description>
     </item>
     
     <item>
       <title>Some Information on Creating Websites with R</title>
-      <link>/post/2019/04/18/website-info/</link>
+      <link>https://harishguda.me/post/2019/04/18/website-info/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/04/18/website-info/</guid>
+      <guid>https://harishguda.me/post/2019/04/18/website-info/</guid>
       <description>Update: Much of this information is available in detail at multiple places, including:
 The Little Dataset,Official Blogdown E-Book,Alison Hill (who is a co-author on the textbook),among others.
 I had previously owned a Google Site, which I never liked. I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it. However, it can be still quite difficult with no experience to HTML, or prior exposure to CSS.</description>
@@ -44,10 +72,10 @@ I had previously owned a Google Site, which I never liked. I am quite comfortabl
     
     <item>
       <title>Om Vighnaraja</title>
-      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
+      <link>https://harishguda.me/post/2019/04/01/om-vighnaraja-first-post/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
+      <guid>https://harishguda.me/post/2019/04/01/om-vighnaraja-first-post/</guid>
       <description>Hello all!
 This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
 One of my favorite things about RMD files is that it compiles math so beautifully. For example,
@@ -55,49 +83,47 @@ Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can b
     </item>
     
     <item>
-      <title>Code</title>
-      <link>/code/</link>
+      <title>Charity</title>
+      <link>https://harishguda.me/charity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/code/</guid>
-      <description>  This webpage:
- Github Repo. Post.    My Github repos.
-  </description>
+      <guid>https://harishguda.me/charity/</guid>
+      <description>I have donated to the following organizations in the past. Please consider donating to them if their causes appeal to you. Thank you!
+  AID India: You can read about some amazing initiatives of AID (Association for India&amp;rsquo;s Development) to prevent farmer suicide in India. It is estimated that each day, about 40 farmers commit suicide in India, due to a various reasons, including economic policy, GM crops, drought, debt, etc.</description>
     </item>
     
     <item>
       <title>Harish Guda</title>
-      <link>/about/</link>
+      <link>https://harishguda.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://harishguda.me/about/</guid>
       <description>Hi.
 I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain Management at the W.P. Carey School of Business at Arizona State University.
-My research interests are at the interface of technology, marketplace design and operations/supply chain management.
-I am an R enthusiast.
-Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287 Phone: 480 - 727 - 3561.</description>
+My research interests are at the interface of technology, service operations management and marketplace design (in particular, the platform economy).
+I enjoy theory.
+Contact  Email: hguda [AT] asu [DOT] edu. Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287 [ASU][Linkedin][Twitter][Scholar].</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>https://harishguda.me/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
-      <description>Interests My broad interests are in incentive and information design in platforms/marketplaces &amp;ndash; environments where a large number of agents interact. In such environments, agents respond not only to the actions of the platform, but also to the actions ofother agents (i.e., agents exert strategic externalities on each other).
-Besidesm I am also interested in analyzing problems in retail (motivated by my experience at Nordstrom).
-Publications  Your Uber is Arriving: Managing On-Demand Workers through Sure Pricing, Forecast Communication and Worker Incentives.</description>
+      <guid>https://harishguda.me/research/</guid>
+      <description>Interests I study incentive and information design problems in service operations management and in the platform-economy.
+Publications  The Economics of Process Transparency.  Joint work with Milind Dawande and Ganesh Janakiraman. Production and Operations Management (forthcoming). [doi][pdf][ssrn][slides] Coverage at the LSE Business Review. [pdf]   An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon&amp;rsquo;s Integration.  Joint work with Lina Wang and Elliot Rabinovich. Journal of Operations Management (March 2022).</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://harishguda.me/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
-      <description>Arizona State University   SCM 551: Operations Planning and Execution - MBA Elective.
-  SCM 502: Operations and Supply Chain Management - MBA Core.
- Syllabus I plan to maintain an independent repository of past content &amp;ndash; this is work-in-progress. Students may use this at their own discretion.    University of Texas at Dallas  OPRE 3310: Introduction to Operations Management - BS (BA) Core.  Syllabus    </description>
+      <guid>https://harishguda.me/teaching/</guid>
+      <description>Arizona State University I teach two courses to the FT-MBA students at ASU, typically in the Fall.
+  SCM 551: Operations Planning and Execution (MBA Elective, MS-SCM)[syllabus]
+ The course is centered around operational decision-making in environments with uncertainty. The course contains a few simulations/experiments. Students are encouraged to build a decision support tool that aids them in decision-making. The course contains mild use of Python, and is taught via separate tutorials.</description>
     </item>
     
   </channel>

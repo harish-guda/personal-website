@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Expected Mean Residual Lifetime at the Time of Failure | Harish Guda</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/about/">About Me</a></li>
+      
+      <li><a href="/research/">Research</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/files/cv-harishguda.pdf">CV</a></li>
+      
+      <li><a href="/">Miscellany</a></li>
+      
+      <li><a href="/charity">Charity</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Expected Mean Residual Lifetime at the Time of Failure</span></h1>
+<h2 class="author">Harish Guda</h2>
+<h2 class="date">2022/12/24</h2>
+</div>
+
+<main>
+
+
+
+<p>In a <a href="https://harishguda.me/files/manuscripts/process-transparency.pdf">recent paper</a> I worked on, I defined an interesting notion for a random variable called the <strong>expected mean residual life</strong> at <strong>the time of failure</strong>. I had not seen this quantity discussed in the prior literature. So, I decided to pen some ideas below.</p>
+<div id="mean-residual-lifetime-and-hazard-rate" class="section level1">
+<h1>Mean Residual Lifetime and Hazard Rate</h1>
+<p>Consider a random variable, say <span class="math inline">\(X\)</span>, that is drawn from a p.d.f. <span class="math inline">\(f(\cdot)\)</span> and c.d.f <span class="math inline">\(F(\cdot)\)</span>. The mean residual life of <span class="math inline">\(X\)</span> at <span class="math inline">\(t\)</span> is defined as:
+<span class="math display">\[
+MRL_X(t) = \mathbb{E}[X-t | X &gt; t].
+\]</span>
+Essentially, <span class="math inline">\(MRL_X(t)\)</span> informs us of the following: if an object with a random lifetime (<span class="math inline">\(X\)</span>) has survived until time <span class="math inline">\(t\)</span>, then, on average, how much longer can we expect it to survive?</p>
+<p>A closely related idea is the hazard (or failure) rate, which is the following:
+<span class="math display">\[
+h_X(t) = \frac{f(t)}{1 - F(t)}
+\]</span>
+The hazard rate informs us of the likelihood of the object dying at time <span class="math inline">\(t\)</span>, given that it has survived until time <span class="math inline">\(t\)</span>.</p>
+<p>Both these notions are present in just about every textbook you’ll read on survival/reliability analysis. The latter notion is also popular in other areas, e.g., economic theory, where it is common to make assumptions, e.g., monotone hazard rates, for r.v.’s of interest.</p>
+</div>
+<div id="modeling-task-durations" class="section level1">
+<h1>Modeling Task Durations</h1>
+<p>In my work, I was interested in modeling the duration of tasks in a process. The literature commonly assumes one of the following:</p>
+<ul>
+<li><em>Constant MRL</em>:
+<ul>
+<li>In the context of duration, a task that is exponentially distributed has, on average, the same amount of work left even after spending a positive amount of time working on it. An example I like to think is creative work: let’s say that you need a spark to solve a problem (think: a 150-year old open question). The spark can happen at any time, and until you have it, you haven’t solved the problem. So, your expectation of how much longer you need to solve the problem has not changed even after spending some time working on it.</li>
+<li>The only (continuous) distribution that satisfies this property is the exponential distribution.</li>
+</ul></li>
+<li><em>Decreasing MRL</em>:
+<ul>
+<li>The above might case might be theoretically useful, but not very practical. Far more common are tasks where time spent reduces the expected amount of work left. That is, <span class="math inline">\(MRL_X(t)\)</span> is decreasing in <span class="math inline">\(t\)</span>.</li>
+<li>Many members of the exponential family follow DMRL.</li>
+<li>DMRL generalizes increasing hazard/failure rate.</li>
+</ul></li>
+</ul>
+</div>
+<div id="emrl-at-the-time-of-failure" class="section level1">
+<h1>EMRL at the Time of Failure</h1>
+<p>Consider the expected value of MRL <strong>a moment</strong> before its failure, i.e., consider two i.i.d. r.v.’s, say <span class="math inline">\(X, X&#39;\)</span>.
+<span class="math display">\[ EMRL \text{ at Failure } = E_{X, X&#39;}[X - X&#39; | X \ge X&#39;] = E_{X&#39;}[MRL_X(X&#39;)].\]</span>
+In short, I call it <span class="math inline">\(EMRL@F\)</span>. One way to think about <span class="math inline">\(EMRL@F\)</span> is as follows: Suppose God were to ask an object (that he knows is about to fail) how much longer it’s got left to live. That’s <span class="math inline">\(MRL\)</span>. Now, the time instant that God were to ask is random. So, we take an expectation based on the time instant this object will fail. This is <span class="math inline">\(EMRL@F\)</span>.</p>
+<p>Below, I provide a simple way to simulate (i.e., a numerical approximation by enumeration) <span class="math inline">\(EMRL@F\)</span> for any r.v. For simplicity, I use the lognormal(0,1) distribution.</p>
+<pre class="r"><code>n &lt;- 10000
+x &lt;- rlnorm(n, 0, 1)
+xP &lt;- rlnorm(n, 0, 1)
+s &lt;- 0
+d &lt;- 0
+for (i in 1:n) {
+  if (x[i] &gt;= xP[i]) {
+    s &lt;- s + (x[i] - xP[i])
+    d &lt;- d + 1
+  }
+}
+emrlf &lt;- (s/d)
+
+emrlf</code></pre>
+<pre><code>## [1] 1.658835</code></pre>
+<p>Observe that this is different from the mean of lognormal distribution itself.</p>
+<pre class="r"><code>mean(x)</code></pre>
+<pre><code>## [1] 1.609265</code></pre>
+</div>
+<div id="beyond-emrlf" class="section level1">
+<h1>Beyond <span class="math inline">\(EMRL@F\)</span></h1>
+<p>There may be other properties of this r.v. <span class="math inline">\((X - X&#39; | X \ge X&#39;)\)</span>. If there are associated properties that you may come across, please let me know.</p>
+</div>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  © <a href="https://harishguda.me/about">Harish Guda</a>
+  
+  </footer>
+  </body>
+</html>
+

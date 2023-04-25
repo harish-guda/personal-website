@@ -2,41 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Harish Guda</title>
-    <link>/categories/general/</link>
+    <link>https://harishguda.me/categories/general/</link>
     <description>Recent content in General on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://harishguda.me/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Max-Min Inequality</title>
+      <link>https://harishguda.me/post/2023/03/31/research/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/post/2023/03/31/research/</guid>
+      <description>One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows.
+The ResultConsider a bivariate function \(f(z, w)\), \(z \in Z\), \(w \in W\). It’s easier to think of the sets \(Z\) and \(W\) as finite sets, or a convex subset of \(\mathbb{R}\) (although the result is more general).</description>
+    </item>
     
     <item>
       <title>Decision Making Under Costly Search</title>
-      <link>/post/2020/06/14/teaching-resources/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <link>https://harishguda.me/post/2021/03/18/teaching-resources/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/06/14/teaching-resources/</guid>
+      <guid>https://harishguda.me/post/2021/03/18/teaching-resources/</guid>
       <description>Choice Models 101Choice models – the theory that studies how individual decision makers (e.g., consumers) make decisions when faced with a collection of alternatives – is of interest to several research disciplines. The canonical choice model is as follows.
-A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.\]</description>
+A single decision-maker chooses one among a collection \(N\) alternatives, indexed by \(i \in [N]\).1 His (consumption) utility from consuming alternative \(i\) is:\[U_i = v_i + \epsilon_i.</description>
     </item>
     
     <item>
       <title>Useful Templates for First-Time Instructors</title>
-      <link>/post/2019/12/18/teaching-resources/</link>
+      <link>https://harishguda.me/post/2019/12/18/teaching-resources/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/12/18/teaching-resources/</guid>
+      <guid>https://harishguda.me/post/2019/12/18/teaching-resources/</guid>
       <description>I am writing this post as I complete my first quarter of teaching as an Assistant Professor. I taught the core Operations and Supply Chain Management to FT MBAs.1
 As I went through this process for the first time, I realized that I needed templates for various files (e.g., syllabus, exams, homework assignments, case writeups, instruction slides, etc.). While there was an abundance of such resources online, it is hard for a single user to try out everything to weed out the bad ones from the good ones.</description>
     </item>
     
     <item>
       <title>Some Information on Creating Websites with R</title>
-      <link>/post/2019/04/18/website-info/</link>
+      <link>https://harishguda.me/post/2019/04/18/website-info/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/04/18/website-info/</guid>
+      <guid>https://harishguda.me/post/2019/04/18/website-info/</guid>
       <description>Update: Much of this information is available in detail at multiple places, including:
 The Little Dataset,Official Blogdown E-Book,Alison Hill (who is a co-author on the textbook),among others.
 I had previously owned a Google Site, which I never liked. I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it. However, it can be still quite difficult with no experience to HTML, or prior exposure to CSS.</description>
@@ -44,10 +50,10 @@ I had previously owned a Google Site, which I never liked. I am quite comfortabl
     
     <item>
       <title>Om Vighnaraja</title>
-      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
+      <link>https://harishguda.me/post/2019/04/01/om-vighnaraja-first-post/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
+      <guid>https://harishguda.me/post/2019/04/01/om-vighnaraja-first-post/</guid>
       <description>Hello all!
 This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
 One of my favorite things about RMD files is that it compiles math so beautifully. For example,

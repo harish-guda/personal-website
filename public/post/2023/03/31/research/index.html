@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Max-Min Inequality | Harish Guda</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/about/">About Me</a></li>
+      
+      <li><a href="/research/">Research</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/files/cv-harishguda.pdf">CV</a></li>
+      
+      <li><a href="/">Miscellany</a></li>
+      
+      <li><a href="/charity">Charity</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">The Max-Min Inequality</span></h1>
+<h2 class="author">Harish Guda</h2>
+<h2 class="date">2023/03/31</h2>
+</div>
+
+<main>
+
+
+
+<p>One of my favorite results in optimization is the max-min inequality. This is taught in just about every introductory course in optimization, math. for econ, and/or allied courses. The result is as follows.</p>
+<div id="the-result" class="section level1">
+<h1>The Result</h1>
+<p>Consider a bivariate function <span class="math inline">\(f(z, w)\)</span>, <span class="math inline">\(z \in Z\)</span>, <span class="math inline">\(w \in W\)</span>. It’s easier to think of the sets <span class="math inline">\(Z\)</span> and <span class="math inline">\(W\)</span> as finite sets, or a convex subset of <span class="math inline">\(\mathbb{R}\)</span> (although the result is more general). Then,
+<span class="math display">\[
+\max_{z \in Z} \min_{w \in W} f(z, w) \le \min_{w \in W}\max_{z \in Z}f(z, w).
+\]</span></p>
+</div>
+<div id="an-interpretation" class="section level1">
+<h1>An Interpretation</h1>
+<p>While it’s easy to algebraically think/vizualize this result in a 3D space, one intuitive way to think of this result is a game with an adversary (a zero-sum game). Suppose your (resp., adversary’s) action set is <span class="math inline">\(Z\)</span> (resp., <span class="math inline">\(W\)</span>). Your payoff from an action <span class="math inline">\(z\)</span> and adversary’s action <span class="math inline">\(w\)</span> is <span class="math inline">\(f(z,w)\)</span>, while the adversary’s payoff is <span class="math inline">\(-f(z, w)\)</span>. The result states that your <em>best worst-case payoff</em> is inferior to the <em>worst best-case payoff</em>. Stated differently, you are better off moving second than moving first in a game with an adversary. I find it intuitive to remember this result as <strong>the second-mover</strong> result.</p>
+<p>Edit: I was informed recently that this interpretation is also present in the textbook <a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">Convex Optimization</a> by Boyd and Vandenberghe (see Chapter 5.4.3).</p>
+</div>
+<div id="where-this-can-show-up" class="section level1">
+<h1>Where This (Can) Show Up</h1>
+<p>This result has a lot of applications, but one place I’ve seen this result often is in robust optimization, which is essentially a game with an adversary. This result provides a simple bound on the worst payoff a decision-maker can get if they were to play an adversary.</p>
+</div>
+<div id="a-simple-proof" class="section level1">
+<h1>A (Simple) Proof</h1>
+<p>I’ve seen at least three different proof ideas for this result. My favorite one is the proof by contradiction. I share that below.</p>
+<p>Suppose the result does not hold. That is, <span class="math inline">\(\exists\)</span> an <span class="math inline">\(f(\cdot)\)</span> and <span class="math inline">\(z_0\)</span> s.t.
+<span class="math display">\[
+\min_{w \in W} f(z_0, w) &gt; \min_{w \in W} \max_{z \in Z} f(z,w).
+\]</span>
+In words, the above inequality states that there exists an action <span class="math inline">\(z_0\)</span> that guarantees you a strictly higher payoff than what would happen if you move second.</p>
+<p>But this is equivalent to
+<span class="math display">\[
+\min_{w \in W}\max_{z \in \{z_0\}}f(z, w) &gt; \min_{w \in W} \max_{z \in Z} f(z,w)
+\]</span>
+That is, you do strictly better if your action set is the singleton set <span class="math inline">\(\{z_0\}\)</span> than a superset of <span class="math inline">\(z_0\)</span>. But this is impossible! Since your action set (in the RHS) is a superset of <span class="math inline">\(z_0\)</span>, you must do at least as well. We have a contradiction, and this completes the proof.</p>
+</div>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+  
+  <hr/>
+  © <a href="https://harishguda.me/about">Harish Guda</a>
+  
+  </footer>
+  </body>
+</html>
+

@@ -2,93 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Harish Guda</title>
-    <link>/tags/</link>
+    <link>https://harishguda.me/tags/</link>
     <description>Recent content in Tags on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://harishguda.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Choice</title>
-      <link>/tags/choice/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Proofs</title>
+      <link>https://harishguda.me/tags/proofs/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/choice/</guid>
+      <guid>https://harishguda.me/tags/proofs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Decision Making Under Uncertainty</title>
-      <link>/tags/decision-making-under-uncertainty/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Results</title>
+      <link>https://harishguda.me/tags/results/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/decision-making-under-uncertainty/</guid>
+      <guid>https://harishguda.me/tags/results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beamer</title>
+      <link>https://harishguda.me/tags/beamer/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/tags/beamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Goods</title>
+      <link>https://harishguda.me/tags/public-goods/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/tags/public-goods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/tags/research/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <link>https://harishguda.me/tags/research/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/research/</guid>
+      <guid>https://harishguda.me/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice</title>
+      <link>https://harishguda.me/tags/choice/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/tags/choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Making Under Uncertainty</title>
+      <link>https://harishguda.me/tags/decision-making-under-uncertainty/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishguda.me/tags/decision-making-under-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://harishguda.me/tags/github/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://harishguda.me/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/tags/teaching/</link>
+      <link>https://harishguda.me/tags/teaching/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/teaching/</guid>
+      <guid>https://harishguda.me/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating Websites</title>
-      <link>/tags/creating-websites/</link>
+      <link>https://harishguda.me/tags/creating-websites/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/creating-websites/</guid>
+      <guid>https://harishguda.me/tags/creating-websites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://harishguda.me/tags/r/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://harishguda.me/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>/tags/hello-world/</link>
+      <link>https://harishguda.me/tags/hello-world/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hello-world/</guid>
+      <guid>https://harishguda.me/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Om Vighnaraja</title>
-      <link>/tags/om-vighnaraja/</link>
+      <link>https://harishguda.me/tags/om-vighnaraja/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/om-vighnaraja/</guid>
+      <guid>https://harishguda.me/tags/om-vighnaraja/</guid>
       <description></description>
     </item>
     
