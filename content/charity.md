@@ -22,6 +22,8 @@ I have donated to the following organizations in the past. Please consider donat
 
 I have a blog where I detail my races. Several of these races are organized to support charity. 
 
+* [Ryan House](https://ryanhouse.org/) Ryan House is an organization that supports families with a child facing end-of-lie, and provide pediatric end-of-life care, among others. They organize a run in Mesa every year called Run for Ryan House (usually in the first week of November) that I participate in.  
+
 * [Pat Tillman Foundation](https://pattillmanfoundation.org/): The City of Tempe and ASU organize the Pat Tillman 4.2 mile run every year in April, to raise funds for the Pat Tillman Foundation, that supports the scholars with educational funds, among others. I donate to this organization via the run. 
 
 * [Tempe Shelter Dog Dash](https://raceroster.com/events/2023/63248/shelter-dog-dash): The City of Tempe organizes a 5k run every April to raise funds for the dog shelters in Maricopa county. While the organization of the run is a hit-or-miss, I support the cause. If you are from Tempe (or from the greater Phoenix region), the run is organized near the [Kiwanis Park/Lake](https://www.tempetourism.com/things-to-do/kiwanis-park/), and is a pleasant place to run. I try to get sub-25 minutes each time I run. 
