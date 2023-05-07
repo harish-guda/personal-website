@@ -14,14 +14,14 @@ I study incentive and information design problems in service operations manageme
 -   The Economics of Process Transparency.
     -   Joint work with Milind Dawande and Ganesh Janakiraman.
     -   *Production and Operations Management* (forthcoming).  \[[doi](https://doi.org/10.1111/poms.13942)\]\[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
-    - Coverage at the [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2023/02/03/when-transparency-hurts-customers-the-case-of-post-sales-process-trackers/). \[[pdf](/files/manuscripts/nts-process-transparency.pdf)\] 
+    - Coverage at the LSE Business Review. \[[doi](https://blogs.lse.ac.uk/businessreview/2023/02/03/when-transparency-hurts-customers-the-case-of-post-sales-process-trackers/)\]\[[pdf](/files/manuscripts/nts-process-transparency.pdf)\] 
 -   An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon's Integration.
     -   Joint work with Lina Wang and Elliot Rabinovich.
     -   *Journal of Operations Management* (March 2022). \[[doi](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1172)\]
 -   "Seemingly-Beneficial" Interventions.
     -   Joint work with Milind Dawande and Ganesh Janakirmanan.
     -   *Production and Operations Management* (May 2021). \[[doi](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13457)\]\[[pdf](/files/manuscripts/seemingly-beneficial-interventions.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634)\]
-    -   Selected as "Lead Article" of [POM Volume 30, Issue 10](https://onlinelibrary.wiley.com/toc/19375956/2021/30/10).
+    -   Selected as "Lead Article" of POM Volume 30, Issue 10. \[[doi](https://onlinelibrary.wiley.com/toc/19375956/2021/30/10)\]
 -   The Economics of Agricultural Support Prices in Developing Economies.
     -   Joint work with Tharanga Rajapakshe, Milind Dawande and Ganesh Janakiraman.
     -   *Production and Operations Management* (March 2021). \[[doi](https://onlinelibrary.wiley.com/doi/10.1111/poms.13416)\]\[[pdf](/files/manuscripts/gsp.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334)\]
