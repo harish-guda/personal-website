@@ -15,6 +15,6 @@ I enjoy theory.
 
 ## Contact
 
-- Email: `hguda [AT] asu [DOT] edu`.
+- Email: hguda@asu.edu.
 - Office: BA 427, 300 E Lemon St., Tempe, AZ. 85287
 - [[ASU](https://isearch.asu.edu/profile/3485205)][[Linkedin](https://www.linkedin.com/in/harish-guda/)][[Twitter](https://twitter.com/harish_guda)][[Scholar](https://scholar.google.com/citations?user=F_gEBogAAAAJ&hl=en&authuser=1)].
