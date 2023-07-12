@@ -9,7 +9,7 @@ I study incentive and information design problems in service operations manageme
 ## Working Papers
 - Competitive Pricing in the Presence of Manipulable Information in Online Platforms. 
   - Joint work with Yuqi Yang and Hongmin Li. 
-  - \[[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)\], \[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)\]. 
+  - \[[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)\]. 
 
 ## Publications
 
