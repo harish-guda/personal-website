@@ -15,7 +15,7 @@ I study incentive and information design problems in service operations manageme
 
 -   The Economics of Process Transparency.
     -   Joint work with Milind Dawande and Ganesh Janakiraman.
-    -   *Production and Operations Management* (forthcoming).  \[[doi](https://doi.org/10.1111/poms.13942)\]\[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
+    -   *Production and Operations Management* (June 2023).  \[[doi](https://doi.org/10.1111/poms.13942)\]\[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
     - Coverage at the LSE Business Review. \[[doi](https://blogs.lse.ac.uk/businessreview/2023/02/03/when-transparency-hurts-customers-the-case-of-post-sales-process-trackers/)\]\[[pdf](/files/manuscripts/nts-process-transparency.pdf)\] 
 -   An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon's Integration.
     -   Joint work with Lina Wang and Elliot Rabinovich.
