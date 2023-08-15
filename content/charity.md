@@ -22,7 +22,7 @@ I have donated to the following organizations in the past. Please consider donat
 
 I recently started to do more short- and medium-distance races (follow me on [Strava](https://www.strava.com/athletes/116625223)) Several of these races are organized to support charity. 
 
-* [Ryan House](https://ryanhouse.org/): Ryan House is an organization that supports families with a child facing end-of-life, and provide pediatric end-of-life care, among other services. They organize a run in Mesa every year called Run for Ryan House (usually in the first week of November) that I participate in.  
+* [Ryan House](https://ryanhouse.org/): Ryan House is an organization that supports families with a child facing end-of-life, and provide pediatric end-of-life care, among other services. They organize a run in Mesa every year called Run for Ryan House (usually in the first Sunday of November) that I participate in.  
 
 * [Pat Tillman Foundation](https://pattillmanfoundation.org/): The City of Tempe and ASU organize the Pat Tillman 4.2 mile run every year in April, to raise funds for the Pat Tillman Foundation, that supports the scholars with educational funds, among others. I donate to this organization via the run. 
 
