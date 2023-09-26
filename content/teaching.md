@@ -7,7 +7,7 @@ title: Teaching
 I teach two courses to the FT-MBA students at ASU, typically in the Fall. 
 
 
-- SCM 502: Operations and Supply Chain Management (FT MBA, MiM Core) [[syllabus](/files/syllabus-scm-502.PDF)]
+- SCM 502: Operations and Supply Chain Management (FT MBA Core) [[syllabus](/files/syllabus-scm-502.PDF)]
 <!--  - I plan to maintain an independent [repository](https://harish-guda.github.io/scm-502) of past content -- this is **work-in-progress**. Students may use this at their own discretion. -->
 
 - SCM 551: Operations Planning and Execution (MBA Elective, MS-SCM, MS-GL)[[syllabus](/files/scm-551-syllabus.PDF)]
