@@ -1,5 +1,5 @@
 ---
-title: "Too Many 10K Races in The Last Couple of Months"
+title: "Discovering My Joy of Running and Racing"
 author: "Harish Guda"
 date: "`r Sys.Date()`"
 output: html_document
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In the last few months, I took up running more actively, as I continue this journey of wanting to be more fit and healthy. I had written about my first race --- ASU's very own Pat Tillman Race --- in an other [post](https://harishguda.me/post/2023/04/15/run/). I had such a runner's high after my first race that I wanted more of it. Is this an [addictive good](https://www.jstor.org/stable/2006861)? Hmm.  
+In the last few months, I took up running more actively, as I continue this journey of wanting to be more fit and healthy. I had written about my first race --- ASU's very own Pat Tillman Race --- in an other [post](https://harishguda.me/post/2023/04/15/run/). I had such a runner's high after my first race that I wanted more of it. Is this an [addictive good](https://en.wikipedia.org/wiki/Rational_addiction)? Hmm.  
 
 It was at this time that I started Googling what races happen around me, and the distances and speeds I should aspire to. I started signing up for 5ks in mid-April 2023, and realized quickly that 5ks wouldn't cut it anymore. I wanted a longer, and perhaps, a more involved exercise.
 
