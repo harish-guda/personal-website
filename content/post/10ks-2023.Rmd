@@ -57,10 +57,9 @@ The run itself was not too great. The run was organized at 3pm on a late October
 
 <center>
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10111240799"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10087556434"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 </center>
-
 
 ## [Run for Ryan House](https://ryanhouse.org/run-ryan-house-3/)
 
