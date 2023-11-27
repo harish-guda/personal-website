@@ -2,7 +2,7 @@
 title: Harish Guda
 ---
 
-[<img src="/index-files/harish-guda-2017.jpg" style="max-width:30%;min-width:60px;float:right;" />](https://harishguda.me/about/)
+[<img src="/index-files/harish-guda-2017.jpg" style="max-width:25%;min-width:60px;float:right;" />](https://harishguda.me/about/)
 
 
 Hi. 
