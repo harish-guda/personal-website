@@ -1,7 +1,7 @@
 ---
 title: "2023: The Year in Review"
 author: "Harish Guda"
-date: "`r Sys.Date()`"
+date: "2024-01-12"
 output: html_document
 ---
 

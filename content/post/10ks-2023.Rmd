@@ -1,7 +1,7 @@
 ---
 title: "Discovering My Joy of Running and Racing"
 author: "Harish Guda"
-date: "`r Sys.Date()`"
+date: "2023-12-09"
 output: html_document
 ---
 
