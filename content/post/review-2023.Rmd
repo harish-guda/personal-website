@@ -1,0 +1,95 @@
+---
+title: "2023: The Year in Review"
+author: "Harish Guda"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I was inspired to write my "year in review" after I read an old friend Cheng's [post](https://chengnie.com/review2023/). I also thought it was an excellent way to introspect what went right and what went wrong this year. Further, it acts as an excellent commitment device to follow through changes I vow looking forward to 2024. 
+
+I divide it into three parts: 
+
+1. What went well in 2023?
+2. What didn't go well in 2023?
+3. What did I learn, and how can 2024 be better? 
+
+***
+
+# What Went Well in 2023
+
+## Work
+
+- One of my favorite papers that I've written so far -- [The Economics of Process Transparency](https://harishguda.me/files/manuscripts/process-transparency.pdf) -- got published in POM. There are so many reasons I loved this paper. Arguably, the most important idea in Operations is viewing every functionality through the lens of a process. It's rather remarkable that despite being so fundamental to the field, so little is understood about processes beyond simple ones. My paper sheds light on one aspect of processes, viz., how transparent they should be. 
+    - While working on this paper, I was reminded of a quote I read on Twitter (attributed to [Emmanuel Farhi](https://en.wikipedia.org/wiki/Emmanuel_Farhi)):
+    
+> "You must absolutely love what you are doing. But for that, there has to be something that you love and you want there to be more of. You must quickly figure out what *that* is." 
+
+For me, *that* were the ideas in this paper. 
+
+* I wrote another [paper](https://harishguda.me/files/manuscripts/competitive-pricing-manipulation.pdf) with a colleague and a PhD student on pricing in the presence of manipulation, and whether manipulation is anti-competitive? A big concern with the emergence of Generative AI is not only has it reduced the frictions to learn about products, but it has also made it easier for sellers to misrepresent their own products. For example, a big concern on major retail platforms, e.g., Amazon, Etsy, Yelp, etc., are that sellers can often manipulate information (using unfair, or at other less innocuous means). Our work sheds light on equilibrium outcomes in a closed economy. 
+
+- I taught my MBA students. I especially enjoy teaching the elective on operations planning, and had a great bunch of students this year. I try to develop new content each year, and this year, I managed to develop a mini-case on the congestion and the backlog amidst the ongoing [crisis](https://www.wsj.com/business/logistics/thats-two-for-two-the-worlds-other-big-canal-is-in-trouble-f9760523) at the Panama Canal.^[Reach out to me if you want this mini-case either for your core ops. course, or for a module on the impact of climate change on global supply chains.] 
+
+## Personal: 
+
+- I was able to travel back home to India twice -- once in February, and once in June -- after not having been able to travel home for over 4.5 years! My mom cried after seeing me in the airport during my first trip in February. 
+    - As an immigrant in the US, I realize I make several (largely silent) sacrifices, whose effect I fully don't internalize at the time I make them, only to realize their cost much later. 
+
+Here's a picture of me and my dad with my undergrad professor during my trip in February at IIT madras' campus. 
+
+<center>
+
+![Visit to IIT Madras](/pictures/2023/iitm-prof-cr-2.jpg)
+
+</center>
+
+- I completed 500 classes at Orangetheory. I was obsessed with OTF and it was a no-brainer that I would reach 500 classes in three years.^[I am also low-key proud of successfully persuading many others to join OTF.] While there have been some recent hiccups in how my studio has been managing clients (some of them not to my liking), I will stick to OTF for the foreseeable future as my mainstay for fitness classes. 
+
+<center>
+
+![500 Classes at Orangetheory](/pictures/2023/500-otf-classes.jpg)
+
+</center>
+
+- I ran. A lot. And raced. And loved every moment of it. More about it in [this](https://harishguda.me/post/2023/11/14/discovering-my-joy-of-running-and-racing/) post. 
+
+***
+
+# What Didn't Go Well in 2023
+
+## Work
+
+* I have been slow with completing some papers. They have been longstanding marathons, and I am desperate for them to see the light of day. I really hate the feeling when I am the bottleneck in a paper's progress. I have not been good at managing my time across multiple papers effectively.  
+    - I had submitted only 1 paper this year (to MS) which was rejected. 
+
+## Personal
+
+- I got COVID, after having dodged it for over three years. My friends who study survival analysis know that I would get it at some point. I hated every moment of those two weeks. It was arguably the sickest I've ever been. It sucked even more that I got it a week before my trip to India. I paid a hefty fee to delay my trip by a week.^[My friend Varun once told me that it's cheaper to abandon the earlier ticket and entirely book a new ticket altogether. Travel insurance companies, take note.] 
+
+- I had several injuries this year, most notably the piriformis syndrome, hip flexor strain, achilles tendonitis, and extensor tendonitis. These injuries have made my workouts and runs less enjoyable, or even prevented me from workouts altogether. 
+
+***
+
+
+# How Can 2024 Be Better?
+
+## Work
+
+- I need to get better in managing my own time, and in delegating work to co-authors. Perhaps, more importantly, I need to get better in assessing how long each task will take, instead of being overconfident, and having a significant negative bias in my own estimate. I also need to get better in setting expectations with my co-authors, with regards to timelines and effort. Loss aversion is real (I study it, after all) -- so always underpromise (even if the other person is bayes-rational). 
+
+- Try to not compare myself with others, with regards to productivity and output, as it only exacerbates my stress and makes me feel worse about myself. I have to constantly remind myself about how incredibly lucky I am to work on ideas that excite me so much, and the opportunities to take as many classes and seminars that I want. 
+
+- Saying no more often, to protect my time. For example, I have accepted more requests to referee papers than ideal. I will actively start saying no more often, especially considering how important the next couple of years are to me. 
+
+## Personal
+
+- Try to visit my parents often. I have planned a trip in summer 2024, but I would absolutely love going again, perhaps in December as well. 
+
+
+- More strength training to improve body conditioning to prevent injuries. This is important because working out and running have been crucial for my mood and mental health, and not training to be injury-free has a real effect on my work. 
+
+- Better sleep schedule. My sleep cycle has been erratic, often sleeping at 1am, and sleeping less than 6 hours during my teaching quarter. 

@@ -57,7 +57,7 @@ The run itself was not too great. The run was organized at 3pm on a late October
 
 <center>
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10087556434"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10087556434" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 </center>
 
@@ -69,7 +69,7 @@ The race is organized in Mesa's riverview park (next to the Spring training faci
 
 <center>
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10166011189"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10166011189" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 </center>
 
@@ -83,7 +83,7 @@ Nevertheless, the run was extremely well organized, with a lot of support from c
 
 <center>
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10206842353"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10206842353" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 </center>
 

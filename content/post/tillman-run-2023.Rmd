@@ -18,7 +18,7 @@ tags:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-One of my favorite runs in Tempe is the [Pat Tillman Run](https://pattillmanfoundation.org/pats-run/), organized by the Pat Tillman Foundation. 
+One of my favorite runs in Tempe is the [Pat Tillman Run](https://pattillmanfoundation.org/pats-run/), organized by the Pat Tillman Foundation.
 
 The organization this year was great. I was surprised to see more than 28,000 participants in the event this year. Bib #'s and start times depend on self-reported average time per mile. I think I gave something around 10 minutes/mile, so I was part of bib #'s 18,000-19,000. While the event was supposed to start at 7am, given the crowd, they started the race in phases. I was in the 18th batch, and my run started at around 7:45am. 
 
@@ -28,7 +28,7 @@ I was super under-prepared for this run. I didn't have a flipcase for my phone a
 
 <center>
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8909540959"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8909540959" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 </center>
 
@@ -44,7 +44,7 @@ Here's the [final timings](https://www.athlinks.com/event/34467/results/Event/10
 
 <center>
 
-![](/races-pictures/2023/tillman-run/certificate.png)
+![certificate](/pictures/races-pictures/2023/tillman-run/certificate.png)
 
 </center>
 
@@ -52,6 +52,6 @@ Here's me with the medal.
 
 <center>
 
-![](/races-pictures/2023/tillman-run/medal.jpg)
+![](/pictures/races-pictures/2023/tillman-run/medal.jpg)
 
 </center>
