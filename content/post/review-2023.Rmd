@@ -30,7 +30,7 @@ I divide it into three parts:
 
 For me, *that* were the ideas in this paper. 
 
-* I wrote another [paper](https://harishguda.me/files/manuscripts/competitive-pricing-manipulation.pdf) with a colleague and a PhD student on pricing in the presence of manipulation, and whether manipulation is anti-competitive? A big concern with the emergence of Generative AI is not only has it reduced the frictions to learn about products, but it has also made it easier for sellers to misrepresent their own products. For example, a big concern on major retail platforms, e.g., Amazon, Etsy, Yelp, etc., are that sellers can often manipulate information (using unfair, or at other less innocuous means). Our work sheds light on equilibrium outcomes in a closed economy. 
+* I wrote a [paper](https://harishguda.me/files/manuscripts/competitive-pricing-manipulation.pdf) with a colleague and a PhD student on pricing in the presence of manipulation, and whether manipulation is anti-competitive? A big concern with the emergence of Generative AI is not only has it reduced the frictions to learn about products, but it has also made it easier for sellers to misrepresent their own products. For example, a big concern on major retail platforms, e.g., Amazon, Etsy, Yelp, etc., are that sellers can often manipulate information (using unfair, or at other times, less innocuous means). Our work sheds light on equilibrium outcomes in a closed economy. 
 
 - I taught my MBA students. I especially enjoy teaching the elective on operations planning, and had a great bunch of students this year. I try to develop new content each year, and this year, I managed to develop a mini-case on the congestion and the backlog amidst the ongoing [crisis](https://www.wsj.com/business/logistics/thats-two-for-two-the-worlds-other-big-canal-is-in-trouble-f9760523) at the Panama Canal.^[Reach out to me if you want this mini-case either for your core ops. course, or for a module on the impact of climate change on global supply chains.] 
 
@@ -56,6 +56,12 @@ Here's a picture of me and my dad with my undergrad professor during my trip in 
 </center>
 
 - I ran. A lot. And raced. And loved every moment of it. More about it in [this](https://harishguda.me/post/2023/12/09/discovering-my-joy-of-running-and-racing/) post. 
+
+<center>
+
+![Rock n Roll AZ: My First Half Marathon](/pictures/races-pictures/2024/RnR-jan-2024.jpg)
+
+</center>
 
 ***
 
