@@ -18,7 +18,7 @@ I study incentive and information design problems in service operations manageme
 -   An Analysis of Operating Efficiency and Policy Implications in Last-Mile Transportation Following Amazon's Integration (with L. Wang, and E. Rabinovich). 
     - Published in *Journal of Operations Management* (2022). \[[doi](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1172)\]
 -   "Seemingly-Beneficial" Interventions (with M. Dawande, and G. Janakirmanan). 
-    - *Production and Operations Management* (2021). \[[doi](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13457)\]\[[pdf](/files/manuscripts/seemingly-beneficial-interventions.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634)\]
+    - Published in *Production and Operations Management* (2021). \[[doi](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13457)\]\[[pdf](/files/manuscripts/seemingly-beneficial-interventions.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416634)\]
     -   Selected as "Lead Article" of POM Volume 30, Issue 10. \[[doi](https://onlinelibrary.wiley.com/toc/19375956/2021/30/10)\]
 -   An Economic Analysis of Agricultural Support Prices in Developing Economies (with M. Dawande, G. Janakiraman, and T. Rajapakshe). 
     - Published in *Production and Operations Management* (2021). \[[doi](https://onlinelibrary.wiley.com/doi/10.1111/poms.13416)\]\[[pdf](/files/manuscripts/gsp.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3103334)\]
