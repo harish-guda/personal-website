@@ -7,9 +7,9 @@ title: Research
 I study incentive and information design problems in service operations management and in the platform-economy.
 
 ## Working Papers
-- Non-Profit Support in Education: Resource Allocation and Students' Lifetime Outcomes (with G. Takasi, M. Dawande, and G. Janakiraman) \[[pdf](/files/manuscripts/two-stage-effort.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723417)\]
+- Non-Profit Support in Education: Resource Allocation and Students' Lifetime Outcomes (with G. Takasi, M. Dawande, and G. Janakiraman). \[[pdf](/files/manuscripts/two-stage-effort.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723417)\]
 
-- Competitive Pricing in the Presence of Manipulable Information in Online Platforms (with Y. Yang, and H. Li) \[[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)\]
+- Competitive Pricing in the Presence of Manipulable Information in Online Platforms (with Y. Yang, and H. Li). \[[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)\]
 
 ## Publications
 
