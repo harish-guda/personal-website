@@ -1,0 +1,77 @@
+---
+title: "2024: My Year in Review"
+author: "Harish Guda"
+date: "2025-01-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I realize that it has been a year since I wrote anything on my blog. Perhaps, that's an indication of how busy/stressful the last year has been for me. I will plan on writing more often this year. 
+
+As I did [last year](https://harishguda.me/post/2024/01/12/2023-the-year-in-review/), I will break my review into three parts: 
+
+1. What went well in 2024? 
+2. What didn't go well in 2024? 
+3. What did I learn, and how can 2025 be better? 
+
+# What went well in 2024
+
+## Work 
+
+- **Research**: I had slight success in getting a few positive signals on some of my papers. I received two requests for revisions (at two premier journals of my field, MSOM and MS). While a third paper was rejected, my coauthors and I decided to implement all the recommended changes, and resubmit this work back to a premier journal. These three papers have kept me busy this year. I enjoyed working on all these papers. 
+    - The [paper on non-profit organizations](https://harishguda.me/files/manuscripts/two-stage-effort.pdf) was an interesting paper, both in the context its rooted in, and in the results we demonstrate. We show why scarcity of resources in severely resource constrained environments -- like NPO's in developing countries -- may be a blessing! A new version of this paper will be out soon.[^1] 
+    
+    - The [paper on competitive pricing under manipulability](https://harishguda.me/files/manuscripts/competitive-pricing-manipulation.pdf) was interesting because it gave me an opportunity to understand choice models --- a class of workhorse models used to model consumer choice --- better. Besides, the paper is rooted in the context of manipulation due to the recent emergence of Gen AI, and presents interesting results on anti-competitive outcomes due to manipulation. Much has been [said](https://www.wsj.com/us-news/youre-probably-falling-for-fake-product-reviews-b4d07f23) about the ongoing fake reviews problem in e-commerce. However, I do not see this problem ending anytime soon, so we may have to better understand the outcomes in its presence. 
+    
+    - A third paper on competitive AI-based pricing (not publicly available) was quite enjoyable to work on (details intentionally omitted).
+    
+- I was awarded [WP Carey's Early Career Research Award](https://wpcarey.asu.edu/faculty-research/awards#research) (along with my colleague Heng). This has been a big boost to my confidence that my research agenda and work is appreciated within my department and the school. 
+
+- **Teaching**: I was recognized in the [Poets and Quants' Favorite MBA Professors](https://poetsandquants.com/2024/09/28/favorite-mba-professors/) --- I am so grateful to my student Bailey for the nomination. I was also nominated within WP Carey for a teaching award called ["Business is Personal" Award](https://wpcarey.asu.edu/sites/default/files/2024-05/2023-2024%20Dean%27s%20List%20for%20Teaching%20Impact_0.pdf). 
+
+## Personal
+
+- **Family and Travel**: I was able to travel thrice to visit my parents this year and spend about 2-3 weeks each time -- something I'll forever be grateful for. 
+
+- **Health and Fitness**: I ran a ton with the [Phoenix Run Club](https://phxrunclub.com/), and a little bit with [Sole Sports Group Run](https://www.solesportsrunning.com/content/group-runs). Overall, I am pleased to see my body reacting well to higher mileages (~25 miles/week) this winter. I have enjoyed running, and I hope to continue with these runs in 2025 as well. 
+    - My favorite race this year has been the Phoenix Hot Chocolate 15k -- where I got a time of 1:26 (~9:20 min/mile). 
+  
+<center>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13123083844" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+</center>
+
+# What Didn't Go Well in 2024?
+
+## Work
+
+- **Research**: Zero published work this year. Whenever I have a year with no publications, it worries me. A frequent piece of advice I get from my senior colleagues is to "smoothen" my output to avoid such long inter-publication delays. This is something I have to actively work on. 
+
+- **Teaching**: Teaching has been challenging this year due to multiple reasons. 
+    - My advanced elective on demand planning had an explosion in enrollment (usually a class of 25, but had close to 50 this year), leading to a lack of interpersonal engagement, and often having to cycle through the motions. Personally, I do not enjoy teaching large classes. This "assembly-line"-ization of higher education is something I am not a fan of. 
+    - I had to travel to ASU's West Campus (close to the new TSMC factory), with a commute of about 2 hours every session. The West campus strategic location to the rising tech/semiconductor hub in the Phoenix metro is an exciting prospect. However, the commute took a significant toll on me during Fall. 
+    - Changes to the FT-MBA program meant I had fewer lecture sessions, and it was a challenge covering the material with fewer sessions. 
+    
+    
+## Personal
+
+- **Losing my PhD Advisor**: Earlier this year, [Dr. Milind Dawande](https://chairs.utdallas.edu/biographies/dr-milind-dawande/) (my PhD advisor) had passed away. This has been a big shock to me. Half of my "weekly conversational time" used to be with Milind. Not having him around has left a huge void. 
+
+- **Health and Fitness**: The early part of 2024 has been injury-filled, with getting an IT Band injury in February and in June. These injuries have kept me out of running for several months. Traveling to India also meant I had to take breaks in my running schedule, and I may have to miss the Rock 'n Roll (AZ) Half Marathon this year -- something I am super bummed about. Also, getting diagnosed with influenza twice within a span of 2 months has been painful. 
+
+# How Can 2025 Be Better?
+
+## Work
+
+- **Research**: I am optimistic about the ongoing projects reaching fruition soon. My main targets for this year is to take each of my ongoing research papers to completion in the best way possible. 
+
+## Personal
+- **Health and Fitness**: I am actively strength training in a gym, along with Strength 50 classes at Orangetheory, in addition to better planning my mileage. 
+
+- **Family and Travel**: I will have to renew my work visa this year. I am worried if I may not have an opportunity to travel this year. Fingers crossed. 
+
+[^1]: The results in this paper might remind a reader of some of the findings in a fabulous book called [Scarcity: The True Cost of Not Having Enough](https://www.goodreads.com/book/show/25386484-scarcity). 
