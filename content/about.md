@@ -9,7 +9,7 @@ Hi.
 
 I am Harish Guda. I am an Assistant Professor in the Department of Supply Chain Management at the [W.P. Carey School of Business](https://wpcarey.asu.edu) at Arizona State University. 
 
-My research interests are at the interface of technology, service operations management and marketplace design (in particular, the platform economy). 
+My research interests are at the interface of technology, service operations management and marketplace design (in particular, platforms). 
 
 I enjoy theory. 
 

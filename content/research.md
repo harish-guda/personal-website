@@ -4,7 +4,7 @@ title: Research
 
 ## Interests
 
-I study incentive and information design problems in service operations management and in the platform-economy.
+I study incentive and information design problems in service operations management. In particular, a significant focus of my research are platforms and platform-enabled marketplaces. 
 
 ## Working Papers
 - Non-Profit Support in Education: Resource Allocation and Students' Lifetime Outcomes (with G. Takasi, M. Dawande and G. Janakiraman). \[[pdf](/files/manuscripts/two-stage-effort.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723417)\]
