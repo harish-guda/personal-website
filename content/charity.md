@@ -4,7 +4,7 @@ title: Charity
 
 I have donated to the following organizations in the past. Please consider donating to them if their causes appeal to you. Thank you! 
 
-* [Milind Dawande Endowment Scholarship](https://giving.utdallas.edu/jsom): Milind Dawande was my primary advisor in graduate school at UT Dallas. This scholarship was instituted by several of his former students in his memory, and honoring his spirit of kindness and generosity. Beyond being a prolific researcher and an excellent teacher, Milind was an incredibly kind and generous person who supported all his students. The scholarship supports graduate students pursing degrees in Supply Chain Management. 
+* [Milind Dawande Endowment Scholarship](https://giving.utdallas.edu/jsom): Milind Dawande was my primary advisor during graduate school. This scholarship was instituted by several of his former students in his memory, and honoring his spirit of kindness and generosity. Beyond being a prolific researcher and an excellent teacher, Milind was an incredibly kind and generous person who supported all his students. The scholarship supports graduate students pursing degrees in Supply Chain Management. 
 
 * [AID India](https://aidindia.org/): You can read about some amazing initiatives of AID (Association for India's Development) to prevent farmer suicide in India. It is estimated that each day, [about 40 farmers commit suicide in India](https://en.wikipedia.org/wiki/Farmers%27_suicides_in_India), due to a various reasons, including economic policy, GM crops, drought, debt, etc. Click [here](https://aidindia.org/farmersfund/) to donate to AID India's Farmers Fund.
 
