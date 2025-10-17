@@ -16,6 +16,8 @@ I have donated to the following organizations in the past. Please consider donat
 
 # Charity Through My Employer
 
+* [ASU SolarSPELL Initiative](https://solarspell.org/): SolarSPELL is a remarkable organization that supports communities removed from traditional ICT connectivity with digital tools to make better informed decisions and improve their quality of life. I got to know of this organization's impact through a friend who works for them. Here's a [video](https://www.youtube.com/watch?v=Dbyl5qJ0rqA) that describes this organization's core product and their operational model.[^fn-ict]
+
 * [Valley of the Sun United](https://vsuw.org/): Through my employer ASU, I participate in [ASU's Pledge](https://unitedway.asu.edu/) every year. VSU focuses on multiple issues, including housing and homelessness. In the last few years, Arizona has seen the [largest increase in homelessness](https://cronkitenews.azpbs.org/2023/01/13/arizona-led-nation-for-rise-in-homeless-youth-last-year-hud-report-says/) in the US. Click [here](https://vsuw.org/donate#donate) to donate. 
 
 * [Dr. John Konopka Memorial Scholarship](https://www.asufoundation.org/colleges-and-programs/schools-and-colleges/w.-p.-carey-school-of-business/dr.-john-konopka-memorial-scholarship-CA124384.html): Dr. Konopka was my colleague in my department, and one of the members of our afternoon coffee-runs. The scholarship supports students at the W.P. Carey School of Business. I donate to this scholarship in his memory. 
@@ -28,6 +30,4 @@ I recently started to do more short- and medium-distance races (follow me on [St
 
 * [Pat Tillman Foundation](https://pattillmanfoundation.org/): The City of Tempe and ASU organize the Pat Tillman 4.2 mile run every year in April, to raise funds for the Pat Tillman Foundation, that supports veteran students/scholars with educational funds, among others. I donate to this organization via the run. 
 
-* [Tempe Shelter Dog Dash](https://raceroster.com/events/2023/63248/shelter-dog-dash): The City of Tempe organizes a 5k run every April to raise funds for the dog shelters in Maricopa county. While the organization of the run is a hit-or-miss, I support the cause. If you are from Tempe (or from the greater Phoenix region), the run is organized near the [Kiwanis Park](https://www.tempetourism.com/things-to-do/kiwanis-park/), and is a pleasant place to run. I try to get sub-25 minutes each time I run. 
-
-* [Ironman Foundation](https://ironmanfoundation.org/): The Ironman Foundation is a popular charity in the US that organizes many humanitarian relief efforts. My MBA students organize a student-faculty sprint triathlon (5k run, 12k bike, 0.75k swim), through which I have donated to this organization in the past. I hope they continue this tradition of the sprint triathlon and the fundraiser. 
+[^fn-ict]: ICT and it's impact on improving human conditions is a topic extremely close to my heart. I lived through India's remarkable growth story powered by the IT- and subsequently the mobile/3G connectivity-revolution. One of my favorite papers in Development Econ is a paper on price dispersion and how internet connectivity reduced price dispersion in local markets. This paper has, arguably, one of the [coolest figures](https://media.cheggcdn.com/media/fcb/fcb4c064-44bc-492b-b012-e296fb8f921b/phpCcj5tA) I have seen. 
