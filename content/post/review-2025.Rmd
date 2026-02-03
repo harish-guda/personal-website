@@ -1,0 +1,56 @@
+---
+title: "2025: My Year in Review"
+author: "Harish Guda"
+date: "2026-02-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+It's annoying to state the exact same sentence at the start of this post, but yes, it's been a year since I wrote anything. I am writing this post in February, since I had a lot of deadlines in January, and I couldn't complete this post. 
+
+2025 has, in short, been incredibly challenging. As in every year-in-review, I elaborate on what went well, what didn't go well, and how 2026 can be better. 
+
+# What Went Well in 2025?
+
+While 2025 wasn't one of my more productive years, I had some slight success in completing some important progress in research and teaching.  
+
+## Work
+
+- **Research**: 
+  - While I had zero publications this year, I was able to complete the revisions/re-submissions of two papers, each in a different journal (MS and POM, respectively). A third paper that is under review (first round) in a different outlet (MSOM). A fourth paper is currently being revised, and I am hoping to send it out in the next three months.^[I intentionally omit some details due to the ongoing peer-review process. I will share more details after they get published. ] 
+
+- **Teaching**: 
+  - My MBA elective course on Operations Planning (SCM 551) went well. I had a bunch of incredibly smart students this year. One of the highlights of the course was a guest lecture by a Principal AI Scientist from Target on how AI has affected their Supply Chain Operations. I also worked on a new case on the Operations-Finance interface, on valuing a firm based on inventory information. 
+  
+  - For my core course on Operations and Supply Chain Management (SCM 502), I wrote a new case this year on flight delays due to the recent government shutdown, using ideas from inventory buildup and queuing theory. I hope my students enjoyed this case that bridges real-world with queueing theory. 
+
+## Personal
+- **Health and Fitness**: 
+  - I exclusively ran with the PHX Run Club this year. Running has become such an important part of my life outside of work. This was the year when I hit several PR's in the shorter distances. I ran so many races this year, with the most notable ones being PHX10k, Hot Chocolate 15k, and the Rock 'n' Roll AZ. I hit all my PR's this year, with my favorite being the HM PR at 1:40:59. (~7:37 min/mile) Here is a picture of a race with my group
+<center>
+![Phoenix Run Club Showing out at the Phoenix 10k](/pictures/races-pictures/2025/group-prc.jpg){width=50%}
+</center>
+  - I also volunteered at an elite event -- The Marathon Project -- that took place in Chandler, AZ, and got to meet [Jessica McClain](https://en.wikipedia.org/wiki/Jessica_McClain), who was pacing the 2:37/OTQ women's marathon. 
+<center>
+![Volunteering at The Marathon Project, and Getting to Meet Jessica McClain](/pictures/races-pictures/2025/jessica-mcclain-tmp.jpg){width=40%}
+</center>
+
+# What Didn't Go Well in 2025?
+
+## Work
+
+  - **Research**: The lack of publications in a calendar year is always frustrating. However, every paper of mine needed substantial work this year. 
+
+## Personal
+  - **Travel**: Unfortunately, I couldn't travel home to see my mom and dad in 2025. I am hoping I can see them soon this year. 
+  - **Health**: I had to pull out of Mesa Marathon just two weeks before the race due to an extensor tendinitis issue. I am super bummed about it, as I was feeling so good this season. 
+  
+# How 2026 Can Be Better?
+
+- **Research**: I am optimistic about two of my papers getting past the final hurdle this year. I am super excited about an ongoing paper with my colleague on information acquisition and sequencing AI-enabled feedback in operational decision-making. More on this coming soon. 
+
+- **Health and Fitness**: Yoga has been a revelation to me in late 2025! I am falling in love with the practice of yoga. I am hoping to get 500 hours of yoga this year. I also hope to get my 26 miles this year. Fingers crossed. 
+

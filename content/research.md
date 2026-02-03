@@ -11,6 +11,10 @@ I study incentive and information design problems in service operations manageme
 
 - Competitive Pricing in the Presence of Manipulable Information in Online Platforms (with Y. Yang and H. Li). \[[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)\]
 
+- Demand-Based Dynamic Pricing with Competitive Learning Interference (with U. Subramanian). \[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6023254)\]
+
+- Experimentation in Complex Environments with Learning Spillovers (with Y. Yang and H. Li). 
+
 ## Publications
 
 -   The Economics of Process Transparency (with M. Dawande and G. Janakiraman). *Production and Operations Management* (2023). \[[doi](https://doi.org/10.1111/poms.13942)\]\[[pdf](/files/manuscripts/process-transparency.pdf)\]\[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715037)\]\[[slides](/files/slides/process-transparency.pdf)\]
