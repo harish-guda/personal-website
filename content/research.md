@@ -13,7 +13,7 @@ I study incentive and information design problems in service operations manageme
 
 - Demand-Based Dynamic Pricing with Competitive Learning Interference (with U. Subramanian). \[[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6023254)\]
 
-- Experimentation in Complex Environments with Learning Spillovers (with Y. Yang and H. Li). 
+- Experimentation in Complex Environments with Learning Spillovers: Applications to New Product Development (with Y. Yang and H. Li). 
 
 ## Publications
 
