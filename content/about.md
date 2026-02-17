@@ -7,7 +7,7 @@ title: Harish Guda
 
 Hi. 
 
-I am Harish Guda. I am an Assistant Professor in the [NASPO Department of Supply Chain Management](https://wpcarey.asu.edu/supply-chain-management-degrees) at the [W.P. Carey School of Business](https://wpcarey.asu.edu) at Arizona State University. 
+I am Harish Guda. I am an Assistant Professor in the [NASPO Department of Supply Chain Management](https://wpcarey.asu.edu/supply-chain-management-degrees) at the [W.P. Carey School of Business](https://wpcarey.asu.edu) at [Arizona State University](https://www.asu.edu/). 
 
 My research interests are at the interface of technology, service operations management and marketplace design (in particular, platforms). 
 
