@@ -15,15 +15,18 @@ It's annoying to state the exact same sentence at the start of this post, but ye
 
 # What Went Well in 2025?
 
-While 2025 wasn't one of my more productive years, I had slight success in making important progress in research and teaching.  
+While 2025 wasn't one of my more productive years, I had some success in making important progress in research and teaching.  
 
 ## Work
 
 - **Research**: 
-  - While I had zero publications this year, I was able to complete the revisions/re-submissions of two papers, each in a different journal (MS and POM, respectively). A third paper that is under review (first round) in a different outlet (MSOM). A fourth paper is currently being revised, and I am hoping to send it out in the next three months.^[I intentionally omit some details due to the ongoing peer-review process. I will share more details after they get published. ] 
+  - While I had zero publications this year, I was able to complete the following: 
+    - Revisions/Re-Submissions of two papers: The paper on [dynamic pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6023254), and the paper on [pricing under manipulability](https://harishguda.me/files/manuscripts/competitive-pricing-manipulation.pdf). 
+    - New draft: A new and exciting paper on [new product development with learning spillovers](https://harishguda.me/files/manuscripts/shein-experimentation.pdf). 
+    - Advanced stages of a revision for the paper on [resource-allocation in education](https://harishguda.me/files/manuscripts/two-stage-effort.pdf) that I am hoping to send it out in the next three months.
 
 - **Teaching**: 
-  - My MBA elective course on Operations Planning (SCM 551) went well. I had a bunch of incredibly smart students this year. One of the highlights of the course was a guest lecture by a Principal AI Scientist from Target on how AI has affected their Supply Chain Operations. I also worked on a new case in the Operations-Finance interface, on valuing a firm based on inventory information. 
+  - My MBA elective course on Operations Planning (SCM 551) went well. I had a bunch of incredibly smart students this year. One of the highlights of the course was a guest lecture by a Principal AI Scientist from Target on how AI is being used for their Supply Chain Operations and Planning. I also worked on a new case in the Operations-Finance interface, on valuing a firm based on its inventory data. The focal firm that I used is Lululemon, whose products I greatly love and enjoy. 
   
   - For my core course on Operations and Supply Chain Management (SCM 502), I wrote a new case this year on flight delays due to the recent government shutdown, using ideas from inventory buildup and queuing theory. I hope my students enjoyed this case that bridges real-world with queueing theory. 
 
