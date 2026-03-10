@@ -8,9 +8,14 @@ I study incentive and information design problems in service operations manageme
 
 ## Working Papers
 
+* Experimentation in Complex Environments with Learning Spillovers: Applications to New Product Development (with Y. Yang and H. Li). [[pdf](https://harishguda.me/files/manuscripts/shein-experimentation.pdf)] {{< haiku "sheinexperimentation" "Infinite colors" "Each test whispers to the next" "Math finds the best shade" >}}
+
 * Non-Profit Support in Education: Resource Allocation and Students' Lifetime Outcomes (with G. Takasi, M. Dawande and G. Janakiraman). [[pdf](/files/manuscripts/two-stage-effort.pdf)][[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723417)] {{< haiku "nonprofiteducation" "Scarce funds, bright futures" "Nonprofits choose who to help" "Some doors stay open" >}}
 
+* Demand-Based Dynamic Pricing with Competitive Learning Interference. (with U. Subramanian). [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6023254)] {{< haiku "dynamicpricing" "Rivals watch and learn" "Your price signals your secret" "Silence is power" >}}
+
 * Competitive Pricing in the Presence of Manipulable Information in Online Platforms (with Y. Yang and H. Li). [[pdf](/files/manuscripts/competitive-pricing-manipulation.pdf)][[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461597)] {{< haiku "competitivepricing" "Platforms hide the truth" "Rivals price in the dark fog" "Who wins? Not buyers" >}}
+
 
 ## Publications
 
