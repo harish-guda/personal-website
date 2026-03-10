@@ -30,7 +30,7 @@ footnotereturnlinkcontents = "↩"
     weight = 4
 [[menu.main]]
     name = "Miscellany"
-    url = ""
+    url = "/post/"
     weight = 5
 [[menu.main]]
     name = "Charity"
