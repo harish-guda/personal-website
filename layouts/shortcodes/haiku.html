@@ -1,0 +1,2 @@
+{{ $id := .Get 0 | md5 }}
+<span onclick="var d=document.getElementById('{{ $id }}');d.style.display=d.style.display==='block'?'none':'block'" style="cursor:pointer">▶</span><div id="{{ $id }}" style="display:none"><em>{{ .Get 1 }}<br>{{ .Get 2 }}<br>{{ .Get 3 }}</em></div>
