@@ -21,7 +21,7 @@ I also teach an online undergraduate course (also in the Fall).
 
 ## Awards
 
-Teaching is one of the most rewarding parts of my job. I am deeply honored to have been recognized alongside so many wonderful colleagues who are outstanding teachers.
+Teaching is one of the most rewarding parts of my job. I am deeply honored to have been nominated alongside so many wonderful colleagues who are outstanding teachers.
 
 - The Poets and Quants' Favorite MBA Professors in 2024. [[url]](https://poetsandquants.com/2024/09/28/favorite-mba-professors/) 
 - Dean's List for Teaching Impact in 2024. [[url]](https://wpcarey.asu.edu/sites/g/files/litvpz246/files/2024-05/2023-2024%20Dean's%20List%20for%20Teaching%20Impact_0.pdf)
