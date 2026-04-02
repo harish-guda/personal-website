@@ -4,7 +4,7 @@ title: Research
 
 ## Interests
 
-I study incentive and information design problems in service operations management. In particular, a significant focus of my research are platforms and platform-enabled marketplaces.
+I study incentive and information design problems in service operations and supply chain management. In particular, a significant focus of my research are platforms and platform-enabled marketplaces.
 
 ## Working Papers
 
