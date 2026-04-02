@@ -9,7 +9,7 @@ Hi.
 
 I am Harish Guda, an Assistant Professor in the [NASPO Department of Supply Chain Management](https://wpcarey.asu.edu/supply-chain-management-degrees) at the [W.P. Carey School of Business](https://wpcarey.asu.edu) at [Arizona State University](https://www.asu.edu/). 
 
-My research interests are at the interface of technology, service operations management and marketplace design (in particular, platforms). 
+My research interests are at the interface of technology, service operations management and marketplace design. I study incentive and information design problems that arise in service operations, and supply chains, with a particular focus on platforms.
 
 I enjoy theory, and elegant models. Outside of work, I run (a lot) and drink coffee (perhaps too much). 
 
