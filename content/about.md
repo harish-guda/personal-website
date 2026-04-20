@@ -2,7 +2,7 @@
 title: Harish Guda
 ---
 
-[<img src="/index-files/harish-guda-2017.jpg" style="max-width:28%;min-width:58px;float:right;" />](https://harishguda.me/about/)
+[<img src="/index-files/harish-guda-2017.jpg" style="max-width:29%;min-width:59px;float:right;" />](https://harishguda.me/about/)
 
 
 Hi. 
@@ -11,7 +11,7 @@ I am Harish Guda, an Assistant Professor in the [NASPO Department of Supply Chai
 
 My research interests are at the interface of technology, service operations management and marketplace design. I study incentive and information design problems that arise in service operations, and supply chains, with a particular focus on platforms.
 
-I enjoy theory, and deeply admire *elegant* theoretical models. Outside of work, I run (a lot) and drink coffee (perhaps too much). 
+I enjoy theory, and admire *elegant* theoretical models. Outside of work, I run (a lot) and drink coffee (perhaps too much). 
 
 ## Contact
 
